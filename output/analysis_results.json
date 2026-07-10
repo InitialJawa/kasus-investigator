@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "analyzed_at": "2026-07-10T14:30:45.759998",
-    "total_articles": 62
+    "analyzed_at": "2026-07-10T15:14:52.211302",
+    "total_articles": 96
   },
   "sentiment": {
     "summary": {
-      "positif": 3,
-      "negatif": 9,
-      "netral": 50
+      "positif": 7,
+      "negatif": 52,
+      "netral": 37
     },
     "details": [
       {
@@ -16,154 +16,14 @@
         "score": -1.0
       },
       {
-        "title": "Gubernur Lemhannas Tutup P3N 27: Pemimpin Nasional Harus Berintegritas",
-        "sentiment": "netral",
-        "score": 0.0
-      },
-      {
-        "title": "Transaksi Judol Terus Diungkap, Payment Gateway Perlu Diperkuat",
-        "sentiment": "netral",
-        "score": 0.0
-      },
-      {
-        "title": "Safari Ramadan, Kapolda Sumsel Gandeng Forkopimda Jaga Kamtibmas",
-        "sentiment": "netral",
-        "score": 0.0
-      },
-      {
-        "title": "Ini 5 Dewan Pakar Hoegeng Awards 2026",
-        "sentiment": "netral",
-        "score": 0.0
-      },
-      {
         "title": "Menjawab Keresahan, Menjaga Profesionalisme TNI-Polri",
-        "sentiment": "netral",
-        "score": 0.0
-      },
-      {
-        "title": "Kronologi Kasus Match Fixing PSS Sleman Berujung Minus 3 Poin-Denda Uang",
-        "sentiment": "netral",
-        "score": 0.0
-      },
-      {
-        "title": "Polri Umumkan Vigit Waluyo Sebagai Tersangka Mafia Bola",
-        "sentiment": "netral",
-        "score": 0.0
-      },
-      {
-        "title": "Vigit Waluyo Ditetapkan Tersangka oleh Satgas Antimafia Bola",
-        "sentiment": "netral",
-        "score": 0.0
-      },
-      {
-        "title": "Pimpinan KPK Tersangka Bukan Kali Ini Saja, tapi Kini Ada yang Beda",
-        "sentiment": "netral",
-        "score": 0.0
-      },
-      {
-        "title": "Timeline Kasus Razman: Berawal Ribut dengan Hotman, Kini Dieksekusi ke Lapas",
-        "sentiment": "netral",
-        "score": 0.0
-      },
-      {
-        "title": "Jabar Hari Ini: Tiga Anak Disekap dan Nyaris Dibakar Ayahnya",
-        "sentiment": "netral",
-        "score": 0.0
-      },
-      {
-        "title": "Citra KPK Terendah, Legislator Singgung Perseteruan dengan Dewas",
         "sentiment": "negatif",
         "score": -1.0
-      },
-      {
-        "title": "Medina Zein Dijemput Paksa-Ditahan karena Kasus Ancaman Bom",
-        "sentiment": "negatif",
-        "score": -1.0
-      },
-      {
-        "title": "Perhimpunan Dokter Umum RI Surati Prabowo, Desak Perlindungan Nakes",
-        "sentiment": "netral",
-        "score": 0.0
-      },
-      {
-        "title": "Pidato Lengkap Prabowo di Hari Bhayangkara Ke-80",
-        "sentiment": "netral",
-        "score": 0.0
-      },
-      {
-        "title": "Para Mantan Kapolri Hadir di Upacara Hari Bhayangkara ke-80",
-        "sentiment": "netral",
-        "score": 0.0
-      },
-      {
-        "title": "ABG di Bandung Diperkosa, MenPPPA Bakal Temui Jaksa Agung-Kapolri",
-        "sentiment": "netral",
-        "score": 0.0
-      },
-      {
-        "title": "Prabowo Jadi Inspektur Upacara Hari Bhayangkara ke-80 di Satlat Brimob Cikeas",
-        "sentiment": "netral",
-        "score": 0.0
       },
       {
         "title": "Jampidsus Jawab soal Isu Mundur: Saya Masih Terima Perintah Tangani Perkara",
-        "sentiment": "netral",
-        "score": 0.0
-      },
-      {
-        "title": "Sosok Lalu Iwan, Tersangka Korupsi MBG yang Pernah Bertugas di Polda NTB",
-        "sentiment": "negatif",
-        "score": -1.0
-      },
-      {
-        "title": "Polisi Bidik Tersangka Jual Beli Jabatan di Pemkab Bogor",
-        "sentiment": "netral",
-        "score": 0.0
-      },
-      {
-        "title": "Gubernur Andi Sudirman Ajak Kepala BPKP Sulsel Kawal Asta Cita Presiden",
-        "sentiment": "netral",
-        "score": 0.0
-      },
-      {
-        "title": "Profil Dirgakkum Korlantas Kombes I Made Agus Prasatya yang Baru Dilantik",
-        "sentiment": "netral",
-        "score": 0.0
-      },
-      {
-        "title": "Risiko Perubahan Paradigma dalam UU TNI",
-        "sentiment": "netral",
-        "score": 0.0
-      },
-      {
-        "title": "Al Haris Warning ASN di Jambi Tetap Netral Menuju Pemilu 2024",
-        "sentiment": "netral",
-        "score": 0.0
-      },
-      {
-        "title": "Gubernur Kalteng Ingatkan Pentingnya Penanganan Pasca Banjir Lamandau",
-        "sentiment": "netral",
-        "score": 0.0
-      },
-      {
-        "title": "Ingatkan Tantangan Global, Ini 5 Pesan Penting Wapres Ma'ruf untuk Polri",
-        "sentiment": "netral",
-        "score": 0.0
-      },
-      {
-        "title": "Di Rakernis Reskrim, Kapolri Minta Penyidik Adaptif Hadapi Modus-modus Baru",
-        "sentiment": "netral",
-        "score": 0.0
-      },
-      {
-        "title": "Reaksi Penegak Hukum Setelah KUHP dan KUHAP Baru Berlaku Secara Sah",
-        "sentiment": "netral",
-        "score": 0.0
-      },
-      {
-        "title": "Langkah Penegak Hukum Usai KUHP dan KUHAP Baru Resmi Berlaku",
-        "sentiment": "netral",
-        "score": 0.0
+        "sentiment": "positif",
+        "score": 1.0
       },
       {
         "title": "Kapolri Dorong Sinergi Polri-Kejagung Terapkan KUHP-KUHAP Baru agar Penanganan Perkara Efektif",
@@ -172,23 +32,8 @@
       },
       {
         "title": "Kapolri-Jaksa Agung Teken MoU Sinergitas Penerapan KUHP Baru",
-        "sentiment": "netral",
-        "score": 0.0
-      },
-      {
-        "title": "Duduk Perkara Razman Arif Nasution Dijebloskan ke Lapas Cipinang",
-        "sentiment": "netral",
-        "score": 0.0
-      },
-      {
-        "title": "Ini 3 Besar Kandidat Polisi Inovatif Hoegeng Awards 2026",
-        "sentiment": "netral",
-        "score": 0.0
-      },
-      {
-        "title": "Jabar Hari Ini: Vonis 2,5 Tahun Penjara untuk Resbob",
-        "sentiment": "netral",
-        "score": 0.0
+        "sentiment": "positif",
+        "score": 1.0
       },
       {
         "title": "Kejagung Imbau Publik Tak Bikin Opini Kaitkan Kasus Cuma dari Medsos",
@@ -202,8 +47,8 @@
       },
       {
         "title": "Komisi III DPR Minta TNI-Polri Solid dalam Pemberantasan Korupsi",
-        "sentiment": "netral",
-        "score": 0.0
+        "sentiment": "negatif",
+        "score": -1.0
       },
       {
         "title": "Soal Pengamanan di Rumah Jampidsus, Ini Kata TNI",
@@ -211,52 +56,7 @@
         "score": 0.0
       },
       {
-        "title": "1.836 Pasangan di Kalteng Urus Cerai dalam 6 Bulan, Ini Pemicunya",
-        "sentiment": "netral",
-        "score": 0.0
-      },
-      {
-        "title": "BP MPR Gelar FGD Pertahanan, Pakar UGM Soroti Ancaman Siber dan Antariksa",
-        "sentiment": "negatif",
-        "score": -1.0
-      },
-      {
-        "title": "Tanggal 5 Juli Memperingati Apa? Ini Daftar Hari Pentingnya",
-        "sentiment": "netral",
-        "score": 0.0
-      },
-      {
-        "title": "Dirjen Imigrasi Gandeng KPK Perkuat Pengawasan, Ingatkan Pentingnya Integritas",
-        "sentiment": "positif",
-        "score": 1.0
-      },
-      {
         "title": "Guru Besar UINSA Surabaya Beberkan Catatan Kritis RUU TNI, Polri, Kejaksaan",
-        "sentiment": "netral",
-        "score": 0.0
-      },
-      {
-        "title": "Sampai Kapan Kita Butuh KPK?",
-        "sentiment": "netral",
-        "score": 0.0
-      },
-      {
-        "title": "Kepercayaan ke Polri 82,4%, Ketua MKD DPR: Kinerjanya Diapresiasi Masyarakat",
-        "sentiment": "netral",
-        "score": 0.0
-      },
-      {
-        "title": "Kepercayaan ke Polri 82,4%, Rajiv: Cerminan Pengakuan Publik atas Kinerja",
-        "sentiment": "netral",
-        "score": 0.0
-      },
-      {
-        "title": "3 Tersangka Kasus Penggelapan Dana Syariah Indonesia Segera Disidang",
-        "sentiment": "netral",
-        "score": 0.0
-      },
-      {
-        "title": "DIM RUU Polri: Usia Pensiun Pati Paling Tinggi 60, Bintang 4 Bisa Diperpanjang 1 Tahun",
         "sentiment": "netral",
         "score": 0.0
       },
@@ -282,8 +82,8 @@
       },
       {
         "title": "Soal Perpres Perlindungan Jaksa, Komjak Bantah Ada Konflik Kejaksaan dengan Polri",
-        "sentiment": "negatif",
-        "score": -1.0
+        "sentiment": "positif",
+        "score": 1.0
       },
       {
         "title": "Prabowo Panggil Panglima TNI, Kapolri, hingga Jaksa Agung ke Istana",
@@ -312,109 +112,521 @@
       },
       {
         "title": "Kejaksaan Agung Terbitkan Surat Rahasia Meningkatkan Kewaspadaan",
+        "sentiment": "netral",
+        "score": 0.0
+      },
+      {
+        "title": "Prabowo Panggil Kapolri-Jaksa Agung ke Istana Perintahkan Tindak Tegas Pengoplos Beras",
+        "sentiment": "netral",
+        "score": 0.0
+      },
+      {
+        "title": "Pidato Lengkap Prabowo di Hari Bhayangkara Ke-80",
+        "sentiment": "netral",
+        "score": 0.0
+      },
+      {
+        "title": "Prabowo Jadi Inspektur Upacara Hari Bhayangkara ke-80 di Satlat Brimob Cikeas",
+        "sentiment": "netral",
+        "score": 0.0
+      },
+      {
+        "title": "Risiko Perubahan Paradigma dalam UU TNI",
+        "sentiment": "netral",
+        "score": 0.0
+      },
+      {
+        "title": "Reaksi Penegak Hukum Setelah KUHP dan KUHAP Baru Berlaku Secara Sah",
+        "sentiment": "netral",
+        "score": 0.0
+      },
+      {
+        "title": "Langkah Penegak Hukum Usai KUHP dan KUHAP Baru Resmi Berlaku",
+        "sentiment": "netral",
+        "score": 0.0
+      },
+      {
+        "title": "Di Rakernis Reskrim, Kapolri Minta Penyidik Adaptif Hadapi Modus-modus Baru",
+        "sentiment": "netral",
+        "score": 0.0
+      },
+      {
+        "title": "Korupsi Timah Rp300 Triliun: Kejagung Tetapkan 22 Tersangka",
         "sentiment": "negatif",
         "score": -1.0
       },
       {
-        "title": "Prabowo Panggil Kapolri-Jaksa Agung ke Istana Perintahkan Tindak Tegas Pengoplos Beras",
+        "title": "Korupsi Timah Rp300 Triliun: Jampidsus Febrie Ardiansyah Pimpin Pengusutan",
+        "sentiment": "negatif",
+        "score": -1.0
+      },
+      {
+        "title": "Skandal Timah Rp300 Triliun: BPKP Audit, 22 Tersangka dari Berbagai Pihak",
+        "sentiment": "negatif",
+        "score": -1.0
+      },
+      {
+        "title": "Konvoi Brimob di Depan Gedung Kejagung: Show of Force Polri?",
+        "sentiment": "netral",
+        "score": 0.0
+      },
+      {
+        "title": "Brimob Pamer Kekuatan di Depan Kejaksaan Agung, Ini Reaksi Kejagung",
+        "sentiment": "netral",
+        "score": 0.0
+      },
+      {
+        "title": "KompasTV: Konvoi Brimob di Kejagung, Sinyal Ketegangan dengan Polri?",
+        "sentiment": "netral",
+        "score": 0.0
+      },
+      {
+        "title": "Perpres 122/2024: Kortastipidkor Polri Dibentuk, Dipimpin Irjen Totok Suharyanto",
+        "sentiment": "netral",
+        "score": 0.0
+      },
+      {
+        "title": "Kortastipidkor Polri: Tugas dan Fungsi 3 Direktorat di Bawah Irjen Totok Suharyanto",
+        "sentiment": "netral",
+        "score": 0.0
+      },
+      {
+        "title": "Mengenal Kortastipidkor: Satuan Anti Korupsi Polri Bentukan Jokowi",
+        "sentiment": "negatif",
+        "score": -1.0
+      },
+      {
+        "title": "Ferry Yanto Hongkiriwang alias Ferry Boboho: Mantan Salesman Kipas Angin Jadi Makelar Kasus",
+        "sentiment": "negatif",
+        "score": -1.0
+      },
+      {
+        "title": "Ferry Boboho: Dari Salesman Kipas Angin ke Pengusaha Kafe, Tersangka Makelar Kasus",
+        "sentiment": "negatif",
+        "score": -1.0
+      },
+      {
+        "title": "Ferry Boboho Ditangkap: Pemilik de'Clan Cipete Jadi Makelar Kasus Kejagung?",
+        "sentiment": "negatif",
+        "score": -1.0
+      },
+      {
+        "title": "Penggeledahan 12 Lokasi oleh Kortastipidkor dan Polda Metro: Brankas Rp60 Miliar di de'Clan",
+        "sentiment": "negatif",
+        "score": -1.0
+      },
+      {
+        "title": "Penggeledahan 12 Lokasi: Brankas Tersembunyi di Sentul Berisi 74 Kg Emas dan Rp476 Miliar",
+        "sentiment": "negatif",
+        "score": -1.0
+      },
+      {
+        "title": "Tiga Kasus Korupsi dalam Penggeledahan 12 Lokasi: Batu Bara PLN, Asabri, Krakatau Steel",
+        "sentiment": "negatif",
+        "score": -1.0
+      },
+      {
+        "title": "TNI Jaga Rumah Febrie dan Kantor Kejagung: 2 Unit Panser Anoa Dikerahkan",
+        "sentiment": "negatif",
+        "score": -1.0
+      },
+      {
+        "title": "TNI Tempatkan Panser Anoa di Depan Kejagung dan Rumah Jampidsus",
+        "sentiment": "negatif",
+        "score": -1.0
+      },
+      {
+        "title": "Perpres 66/2025 tentang Perlindungan Jaksa: Komjak Bantah Ada Konflik dengan Polri",
+        "sentiment": "positif",
+        "score": 1.0
+      },
+      {
+        "title": "Pertemuan Sinergitas Jaksa Agung dan Kapolri di Mabes Polri Desember 2025",
+        "sentiment": "positif",
+        "score": 1.0
+      },
+      {
+        "title": "Surat Rahasia R-696 Kejagung: Waspada terhadap AGHT",
+        "sentiment": "netral",
+        "score": 0.0
+      },
+      {
+        "title": "BAIS TNI Dituduh Culik Personel Densus 88 yang Sedang Tugas",
+        "sentiment": "negatif",
+        "score": -1.0
+      },
+      {
+        "title": "Briptu Faisal Anggota Densus 88 Dibawa Paksa oleh BAIS TNI",
+        "sentiment": "netral",
+        "score": 0.0
+      },
+      {
+        "title": "Prabowo Panggil Panglima TNI, Kapolri, Jaksa Agung Redakan Konflik",
+        "sentiment": "negatif",
+        "score": -1.0
+      },
+      {
+        "title": "Ferry Boboho: Pengakuan sebagai Makelar Kasus yang Hubungkan Koruptor dengan Kejaksaan",
+        "sentiment": "negatif",
+        "score": -1.0
+      },
+      {
+        "title": "Temuan Foto Keluarga Jampidsus di Brankas Sentul, Polri Dalami Keterkaitan",
+        "sentiment": "negatif",
+        "score": -1.0
+      },
+      {
+        "title": "Jokowi Teken Perpres 122/2024: Kortastipidkor Polri Resmi Dibentuk",
+        "sentiment": "netral",
+        "score": 0.0
+      },
+      {
+        "title": "Makelar Kasus di Lingkungan Kejaksaan",
+        "sentiment": "negatif",
+        "score": -1.0
+      },
+      {
+        "title": "Ferry Boboho Pintu Masuk Membongkar Jual Beli Hukum di Tubuh Kejagung",
+        "sentiment": "netral",
+        "score": 0.0
+      },
+      {
+        "title": "Ferry Boboho Diduga Pelaku Penculikan, Tidak Ditahan Bukti Aparat Hukum Tak Berdaya",
+        "sentiment": "negatif",
+        "score": -1.0
+      },
+      {
+        "title": "Insiden Ferry Boboho: Sinyal Kuat Korps Adhyaksa Butuh Penyegaran",
+        "sentiment": "netral",
+        "score": 0.0
+      },
+      {
+        "title": "Ferry Yanto Orang Terdekat Jampidsus Febrie Adriansyah",
+        "sentiment": "netral",
+        "score": 0.0
+      },
+      {
+        "title": "Sosok Ferry Yanto Hongkiriwang, Mantan Sales Kipas Angin yang Membuat Tegang Polri, TNI dan Jaksa",
+        "sentiment": "netral",
+        "score": 0.0
+      },
+      {
+        "title": "Ferry Boboho: Bos Kafe di Pusaran Dugaan Markus Kejaksaan",
+        "sentiment": "negatif",
+        "score": -1.0
+      },
+      {
+        "title": "Ponsel Ferry Boboho: Kunci yang Buka Pintu Penggeledahan Kafe de'Clan",
+        "sentiment": "negatif",
+        "score": -1.0
+      },
+      {
+        "title": "Untouchable di Era Jokowi, Disikat di Era Prabowo: Pusaran Dugaan Korupsi Febrie Adriansyah",
+        "sentiment": "negatif",
+        "score": -1.0
+      },
+      {
+        "title": "Jejak Emas di Balik Gerimis Sentul: Ketika Brankas Bicara",
+        "sentiment": "negatif",
+        "score": -1.0
+      },
+      {
+        "title": "Insiden Ferry Boboho: Alarm untuk Korps Adhyaksa!",
+        "sentiment": "netral",
+        "score": 0.0
+      },
+      {
+        "title": "Ferry Boboho Makelar Kasus Kejaksaan - Thread Analisis",
+        "sentiment": "negatif",
+        "score": -1.0
+      },
+      {
+        "title": "Kejati Terima SPDP Penculikan Anggota Polisi, Status Ferry...",
+        "sentiment": "negatif",
+        "score": -1.0
+      },
+      {
+        "title": "Podcast Roemah Pemoeda: Buka-Bukaan Hubungan Ferry Boboho dengan Jampidsus",
+        "sentiment": "netral",
+        "score": 0.0
+      },
+      {
+        "title": "Kejaksaan Agung Tanggapi Penanganan Kasus Korupsi Oleh Polri",
+        "sentiment": "negatif",
+        "score": -1.0
+      },
+      {
+        "title": "Kejaksaan Agung Buka Bicara Soal Penggeledahan Polri & Rumah Dijaga TNI #beritasatu",
+        "sentiment": "negatif",
+        "score": -1.0
+      },
+      {
+        "title": "Komisi Kejaksaan Tegaskan Tak Ada Konflik dengan Polri di Balik Penggeledahan Kasus Korupsi",
+        "sentiment": "negatif",
+        "score": -1.0
+      },
+      {
+        "title": "Kejati Terima SPDP Penculikan Anggota Polisi, Status Ferry Boboho Terlapor",
+        "sentiment": "negatif",
+        "score": -1.0
+      },
+      {
+        "title": "INTEL DENSUS DIANIAYA BAIS TNI⁉️ KISAH GELAP FERRY BOBOHO & KASUS 300 TRILIUN JAMPIDSUS KEJAGUNG",
+        "sentiment": "netral",
+        "score": 0.0
+      },
+      {
+        "title": "Rumah Jampidsus Febrie Dijaga Ketat TNI usai Penggeledahan Kafe di Cipete, Dugaan Kasus Korupsi!",
+        "sentiment": "negatif",
+        "score": -1.0
+      },
+      {
+        "title": "Kejagung Buka Suara soal Isu Penggeledahan Rumah Jampidsus Febrie",
+        "sentiment": "negatif",
+        "score": -1.0
+      },
+      {
+        "title": "Sosok Febrie Adriansyah, Jampidsus yang Rumahnya Dijaga Ketat TNI usai Polri Geledah Kafe di Jaksel",
+        "sentiment": "negatif",
+        "score": -1.0
+      },
+      {
+        "title": "Detik-Detik Pintu Brankas Dibuka Diduga Milik Jampidsus Febrie Ardiansyah, Apa isinya?",
+        "sentiment": "negatif",
+        "score": -1.0
+      },
+      {
+        "title": "Ditemukan 74 Kg Emas, Ini LHKPN Janggal Jampidsus Febrie Ardiansyah",
+        "sentiment": "negatif",
+        "score": -1.0
+      },
+      {
+        "title": "BREAKING NEWS  - JAMPIDSUS FEBRIE ADRIANSYAH BERI KETERANGAN TERKAIT DUGAAN KASUS KORUPSI",
+        "sentiment": "negatif",
+        "score": -1.0
+      },
+      {
+        "title": "Korupsi Timah Rp 300 Triliun! Kejaksaan bongkar kerugian raksasa",
+        "sentiment": "negatif",
+        "score": -1.0
+      },
+      {
+        "title": "Kerugian Negara Akibat Korupsi Timah Jadi Rp300 Triliun, Kasus akan Dilimpahkan ke Pengadilan",
+        "sentiment": "negatif",
+        "score": -1.0
+      },
+      {
+        "title": "[HEADLINE NEWS, 27/12] Mega Korupsi Timah Rugikan Negara 300 Triliun",
+        "sentiment": "negatif",
+        "score": -1.0
+      },
+      {
+        "title": "Negara Rugi Rp 300 Triliun di Kasus Korupsi Timah, Ini Rinciannya!",
+        "sentiment": "negatif",
+        "score": -1.0
+      },
+      {
+        "title": "Kejagung Buka Suara Usai Penggeledahan Polri dan Rumah Jampidsus Dijaga TNI",
+        "sentiment": "negatif",
+        "score": -1.0
+      },
+      {
+        "title": "🔴 Breaking News | Jampidsus Febrie Buka Suara Soal Penggeledahan Polri",
+        "sentiment": "negatif",
+        "score": -1.0
+      },
+      {
+        "title": "Kapuspenkum Kejagung Buka Suara soal Penggeledahan Polri di Kasus Korupsi Batu Bara | iNews Terkini",
+        "sentiment": "negatif",
+        "score": -1.0
+      },
+      {
+        "title": "BREAKING NEWS: Jampidsus Febrie Buka Suara Penggeledahan Polri",
+        "sentiment": "negatif",
+        "score": -1.0
+      },
+      {
+        "title": "BREAKING NEWS - Kejagung Respons 3 Kasus Korupsi yang Ditangani Kortastipidkor",
+        "sentiment": "negatif",
+        "score": -1.0
+      },
+      {
+        "title": "13 Lokasi Digeledah Polisi! Kortastipidkor Polri Usut Dugaan Korupsi Besar Jampidsus |FULL (10/7)",
+        "sentiment": "negatif",
+        "score": -1.0
+      },
+      {
+        "title": "Respons Kejaksaan Agung Terkait Langkah Hukum Kortas Tipidkor - [Top News]",
+        "sentiment": "netral",
+        "score": 0.0
+      },
+      {
+        "title": "Rumah Jaksa Dijaga Ketat TNI, Kejagung Tegaskan Hormati Penggeledahan Polisi 3 Kasus Dugaan Korupsi",
+        "sentiment": "negatif",
+        "score": -1.0
+      },
+      {
+        "title": "BREAKING NEWS - KEJAGUNG TANGGAPI PENANGANAN 3 KASUS MEGA KORUPSI OLEH POLRI",
+        "sentiment": "negatif",
+        "score": -1.0
+      },
+      {
+        "title": "BREAKING NEWS -  Febrie Adriansyah Buka Suara Isu Keterkaitan Kasus BGN",
+        "sentiment": "negatif",
+        "score": -1.0
+      },
+      {
+        "title": "Kita menunggu polri semua menunggu polri. Ayo polri jangan sampai berhenti di tengah jalan",
+        "sentiment": "netral",
+        "score": 0.0
+      },
+      {
+        "title": "Yang pasti NKRI di sarang para pejabat koruptor , jadi institusi polri ,jaksa ,kelompok para korupto",
+        "sentiment": "netral",
+        "score": 0.0
+      },
+      {
+        "title": "RAKYAT NKRI VS JAMPIDSUS",
         "sentiment": "netral",
         "score": 0.0
       }
     ]
   },
   "sna": {
-    "nodes": 16,
-    "edges": 36,
+    "nodes": 15,
+    "edges": 108,
     "centrality": {
-      "Kejaksaan": {
-        "degree": 0.2667,
-        "betweenness": 0.0,
-        "degree_weighted": 40
-      },
-      "Polri": {
-        "degree": 0.4,
-        "betweenness": 0.0,
-        "degree_weighted": 63
-      },
-      "Istana": {
-        "degree": 0.0,
-        "betweenness": 0.0,
-        "degree_weighted": 0
-      },
-      "DPR": {
-        "degree": 0.2,
-        "betweenness": 0.0,
-        "degree_weighted": 6
-      },
-      "Yudikatif": {
-        "degree": 0.0,
-        "betweenness": 0.0,
-        "degree_weighted": 0
-      },
-      "Antikorupsi": {
-        "degree": 0.0667,
-        "betweenness": 0.0,
-        "degree_weighted": 4
-      },
-      "KPK": {
-        "degree": 0.0667,
-        "betweenness": 0.0,
-        "degree_weighted": 4
-      },
-      "Prabowo": {
-        "degree": 0.5333,
-        "betweenness": 0.0,
-        "degree_weighted": 34
-      },
-      "Kapolri": {
-        "degree": 0.4667,
-        "betweenness": 0.0,
-        "degree_weighted": 31
-      },
-      "Komisi III DPR": {
-        "degree": 0.0667,
-        "betweenness": 0.0,
-        "degree_weighted": 2
-      },
       "Prabowo Subianto": {
-        "degree": 0.5333,
-        "betweenness": 0.0667,
-        "degree_weighted": 24
-      },
-      "St Burhanuddin": {
-        "degree": 0.4667,
-        "betweenness": 0.0,
+        "degree": 0.6429,
+        "betweenness": 0.1042,
         "degree_weighted": 20
       },
-      "Burhanuddin": {
-        "degree": 0.5333,
-        "betweenness": 0.0238,
-        "degree_weighted": 24
+      "ST Burhanuddin": {
+        "degree": 0.3571,
+        "betweenness": 0.1042,
+        "degree_weighted": 25
       },
       "Listyo Sigit Prabowo": {
-        "degree": 0.4667,
-        "betweenness": 0.0286,
+        "degree": 0.3571,
+        "betweenness": 0.1042,
+        "degree_weighted": 25
+      },
+      "Febrie Ardiansyah": {
+        "degree": 0.6429,
+        "betweenness": 0.2812,
+        "degree_weighted": 47
+      },
+      "Ferry Boboho": {
+        "degree": 0.6429,
+        "betweenness": 0.2604,
+        "degree_weighted": 52
+      },
+      "TNI": {
+        "degree": 0.7143,
+        "betweenness": 0.2188,
+        "degree_weighted": 54
+      },
+      "Densus 88": {
+        "degree": 0.4286,
+        "betweenness": 0.0417,
+        "degree_weighted": 17
+      },
+      "BAIS TNI": {
+        "degree": 0.4286,
+        "betweenness": 0.0521,
         "degree_weighted": 20
       },
-      "Listyo Sigit": {
-        "degree": 0.4667,
-        "betweenness": 0.0286,
-        "degree_weighted": 20
+      "Brimob": {
+        "degree": 0.2143,
+        "betweenness": 0.0417,
+        "degree_weighted": 8
       },
-      "Sanitiar Burhanuddin": {
-        "degree": 0.2667,
-        "betweenness": 0.1,
-        "degree_weighted": 4
+      "Kortastipidkor": {
+        "degree": 0.3571,
+        "betweenness": 0.1146,
+        "degree_weighted": 17
+      },
+      "Komisi III DPR": {
+        "degree": 0.1429,
+        "betweenness": 0.0104,
+        "degree_weighted": 2
+      },
+      "KPK": {
+        "degree": 0.0,
+        "betweenness": 0.0,
+        "degree_weighted": 0
+      },
+      "Jokowi": {
+        "degree": 0.3571,
+        "betweenness": 0.0417,
+        "degree_weighted": 9
+      },
+      "Kejaksaan Agung": {
+        "degree": 0.7857,
+        "betweenness": 0.5417,
+        "degree_weighted": 85
+      },
+      "Polri": {
+        "degree": 0.9286,
+        "betweenness": 0.5625,
+        "degree_weighted": 101
       }
     },
     "factions": [
-      false,
-      true
+      {
+        "name": "Kejaksaan",
+        "members": [
+          "ST Burhanuddin",
+          "Febrie Ardiansyah",
+          "Kejaksaan Agung"
+        ],
+        "article_count": 70
+      },
+      {
+        "name": "Polri",
+        "members": [
+          "Listyo Sigit Prabowo",
+          "Densus 88",
+          "Brimob",
+          "Kortastipidkor",
+          "Polri"
+        ],
+        "article_count": 61
+      },
+      {
+        "name": "Istana",
+        "members": [
+          "Prabowo Subianto",
+          "Jokowi"
+        ],
+        "article_count": 13
+      },
+      {
+        "name": "Militer",
+        "members": [
+          "TNI",
+          "BAIS TNI"
+        ],
+        "article_count": 22
+      },
+      {
+        "name": "DPR",
+        "members": [
+          "Komisi III DPR"
+        ],
+        "article_count": 1
+      }
     ]
   },
   "timeline": {
     "dates": [
+      "2024-03",
+      "2024-04",
+      "2024-05",
       "2024-10",
+      "2025-02",
+      "2025-03",
+      "2025-05",
       "2025-06",
       "2025-07",
       "2025-08",
@@ -425,29 +637,67 @@
     "counts": [
       2,
       1,
-      2,
+      3,
+      6,
       2,
       1,
+      4,
+      3,
+      11,
+      16,
       1,
-      3
+      2,
+      44
     ],
-    "total_dated": 12
+    "total_dated": 96
   },
   "source_distribution": {
     "labels": [
+      "Youtube",
       "Detik",
       "Tempo",
-      "Infonews",
-      "Sindikatpost",
-      "Kompas",
       "CNN Indonesia",
+      "Seruji",
+      "Kompas",
+      "Liputan6",
+      "RMOL",
+      "Infonews",
+      "Badiklat Kejaksaan",
+      "Suara",
+      "IndonesiaWatch",
+      "Sindikatpost",
       "Sindonews",
       "MetroTV",
-      "Badiklat Kejaksaan",
-      "iNews"
+      "iNews",
+      "CNBC Indonesia",
+      "Viva",
+      "Inilah",
+      "KompasTV",
+      "Hukumonline",
+      "AFU",
+      "Beritasatu",
+      "Wikipedia",
+      "WordPress",
+      "MonitorIndonesia",
+      "Aktual.com",
+      "Suara.com",
+      "Indofakta",
+      "Instagram",
+      "X/Twitter",
+      "YouTube",
+      "Podcast"
     ],
     "values": [
-      50,
+      28,
+      17,
+      5,
+      4,
+      4,
+      3,
+      3,
+      3,
+      2,
+      2,
       2,
       2,
       1,
@@ -455,66 +705,304 @@
       1,
       1,
       1,
-      2,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
       1
     ]
   },
   "keyword_relevance": {
     "labels": [
+      "social_media",
+      "websearch",
+      "ferry boboho markus",
+      "kabareskrim jaksa agung",
+      "penggeledahan 12 lokasi",
+      "kejaksaan polri 2025",
+      "kortastipidkor perpres 122",
+      "korupsi timah kejagung",
+      "brimob kejagung show of force",
+      "jaksa agung kapolri",
+      "tni jaga kejagung",
+      "bais densus 88 penculikan",
+      "ferry boboho penculikan",
+      "ferry boboho febrie",
       "kejaksaan polri konflik",
       "kejaksaan agung vs polri",
-      "jaksa agung kapolri",
       "kejaksaan polri jabatan",
-      "kabareskrim jaksa agung",
-      "kejaksaan polri perseteruan",
+      "kejaksaan polri oversight",
       "kejaksaan polri logistik politik",
-      "kejaksaan polri 2025",
-      "konflik lembaga hukum indonesia",
-      "dpr kejaksaan polri"
+      "perpres 66 2025",
+      "sinergitas kejagung polri",
+      "surat rahasia r-696",
+      "prabowo redakan konflik",
+      "febrie febrie ardiansyah"
     ],
     "values": [
-      5,
-      5,
-      5,
+      28,
+      12,
+      12,
       5,
       5,
       4,
       4,
-      4,
-      4,
-      4
+      3,
+      3,
+      2,
+      2,
+      2,
+      2,
+      2,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
     ]
   },
   "actor_mentions": {
+    "Kortastipidkor": {
+      "role": "Korps Tipikor Polri",
+      "count": 11,
+      "articles": [
+        "ISESS Minta Penanganan Korupsi Kortas Tipikor Polri Bebas Intervensi",
+        "Perpres 122/2024: Kortastipidkor Polri Dibentuk, Dipimpin Irjen Totok Suharyanto",
+        "Kortastipidkor Polri: Tugas dan Fungsi 3 Direktorat di Bawah Irjen Totok Suharyanto",
+        "Mengenal Kortastipidkor: Satuan Anti Korupsi Polri Bentukan Jokowi",
+        "Penggeledahan 12 Lokasi oleh Kortastipidkor dan Polda Metro: Brankas Rp60 Miliar di de'Clan",
+        "Penggeledahan 12 Lokasi: Brankas Tersembunyi di Sentul Berisi 74 Kg Emas dan Rp476 Miliar",
+        "Tiga Kasus Korupsi dalam Penggeledahan 12 Lokasi: Batu Bara PLN, Asabri, Krakatau Steel",
+        "Jokowi Teken Perpres 122/2024: Kortastipidkor Polri Resmi Dibentuk",
+        "BREAKING NEWS - Kejagung Respons 3 Kasus Korupsi yang Ditangani Kortastipidkor",
+        "13 Lokasi Digeledah Polisi! Kortastipidkor Polri Usut Dugaan Korupsi Besar Jampidsus |FULL (10/7)",
+        "BREAKING NEWS -  Febrie Adriansyah Buka Suara Isu Keterkaitan Kasus BGN"
+      ]
+    },
+    "Polri": {
+      "role": "Kepolisian",
+      "count": 54,
+      "articles": [
+        "ISESS Minta Penanganan Korupsi Kortas Tipikor Polri Bebas Intervensi",
+        "Menjawab Keresahan, Menjaga Profesionalisme TNI-Polri",
+        "Kapolri Dorong Sinergi Polri-Kejagung Terapkan KUHP-KUHAP Baru agar Penanganan Perkara Efektif",
+        "Kapolri-Jaksa Agung Teken MoU Sinergitas Penerapan KUHP Baru",
+        "Kejagung Hormati Proses Penyidikan Polri Terkait 3 Perkara Korupsi",
+        "Komisi III DPR Minta TNI-Polri Solid dalam Pemberantasan Korupsi",
+        "Guru Besar UINSA Surabaya Beberkan Catatan Kritis RUU TNI, Polri, Kejaksaan",
+        "Kejaksaan Agung: Hubungan dengan Polri Baik-baik Saja",
+        "Konflik Polri vs Kejaksaan dan Bayang-Bayang Intervensi Militer",
+        "Peristiwa Jampidsus Kejagung: Membaca Ketegangan Polri, TNI, dan Kejaksaan",
+        "Soal Perpres Perlindungan Jaksa, Komjak Bantah Ada Konflik Kejaksaan dengan Polri",
+        "Jaksa Agung dan Kapolri Satukan Persepsi Perkuat Kerja Sama Hadapi KUHP Baru",
+        "Pidato Lengkap Prabowo di Hari Bhayangkara Ke-80",
+        "Prabowo Jadi Inspektur Upacara Hari Bhayangkara ke-80 di Satlat Brimob Cikeas",
+        "Reaksi Penegak Hukum Setelah KUHP dan KUHAP Baru Berlaku Secara Sah",
+        "Langkah Penegak Hukum Usai KUHP dan KUHAP Baru Resmi Berlaku",
+        "Di Rakernis Reskrim, Kapolri Minta Penyidik Adaptif Hadapi Modus-modus Baru",
+        "Konvoi Brimob di Depan Gedung Kejagung: Show of Force Polri?",
+        "Brimob Pamer Kekuatan di Depan Kejaksaan Agung, Ini Reaksi Kejagung",
+        "KompasTV: Konvoi Brimob di Kejagung, Sinyal Ketegangan dengan Polri?",
+        "Perpres 122/2024: Kortastipidkor Polri Dibentuk, Dipimpin Irjen Totok Suharyanto",
+        "Kortastipidkor Polri: Tugas dan Fungsi 3 Direktorat di Bawah Irjen Totok Suharyanto",
+        "Mengenal Kortastipidkor: Satuan Anti Korupsi Polri Bentukan Jokowi",
+        "Ferry Yanto Hongkiriwang alias Ferry Boboho: Mantan Salesman Kipas Angin Jadi Makelar Kasus",
+        "Ferry Boboho: Dari Salesman Kipas Angin ke Pengusaha Kafe, Tersangka Makelar Kasus",
+        "Ferry Boboho Ditangkap: Pemilik de'Clan Cipete Jadi Makelar Kasus Kejagung?",
+        "Penggeledahan 12 Lokasi oleh Kortastipidkor dan Polda Metro: Brankas Rp60 Miliar di de'Clan",
+        "Penggeledahan 12 Lokasi: Brankas Tersembunyi di Sentul Berisi 74 Kg Emas dan Rp476 Miliar",
+        "Tiga Kasus Korupsi dalam Penggeledahan 12 Lokasi: Batu Bara PLN, Asabri, Krakatau Steel",
+        "Perpres 66/2025 tentang Perlindungan Jaksa: Komjak Bantah Ada Konflik dengan Polri",
+        "Pertemuan Sinergitas Jaksa Agung dan Kapolri di Mabes Polri Desember 2025",
+        "BAIS TNI Dituduh Culik Personel Densus 88 yang Sedang Tugas",
+        "Briptu Faisal Anggota Densus 88 Dibawa Paksa oleh BAIS TNI",
+        "Temuan Foto Keluarga Jampidsus di Brankas Sentul, Polri Dalami Keterkaitan",
+        "Jokowi Teken Perpres 122/2024: Kortastipidkor Polri Resmi Dibentuk",
+        "Ferry Boboho Diduga Pelaku Penculikan, Tidak Ditahan Bukti Aparat Hukum Tak Berdaya",
+        "Sosok Ferry Yanto Hongkiriwang, Mantan Sales Kipas Angin yang Membuat Tegang Polri, TNI dan Jaksa",
+        "Ferry Boboho: Bos Kafe di Pusaran Dugaan Markus Kejaksaan",
+        "Ponsel Ferry Boboho: Kunci yang Buka Pintu Penggeledahan Kafe de'Clan",
+        "Jejak Emas di Balik Gerimis Sentul: Ketika Brankas Bicara",
+        "Kejati Terima SPDP Penculikan Anggota Polisi, Status Ferry...",
+        "Kejaksaan Agung Tanggapi Penanganan Kasus Korupsi Oleh Polri",
+        "Kejaksaan Agung Buka Bicara Soal Penggeledahan Polri & Rumah Dijaga TNI #beritasatu",
+        "Komisi Kejaksaan Tegaskan Tak Ada Konflik dengan Polri di Balik Penggeledahan Kasus Korupsi",
+        "Sosok Febrie Adriansyah, Jampidsus yang Rumahnya Dijaga Ketat TNI usai Polri Geledah Kafe di Jaksel",
+        "Kejagung Buka Suara Usai Penggeledahan Polri dan Rumah Jampidsus Dijaga TNI",
+        "🔴 Breaking News | Jampidsus Febrie Buka Suara Soal Penggeledahan Polri",
+        "Kapuspenkum Kejagung Buka Suara soal Penggeledahan Polri di Kasus Korupsi Batu Bara | iNews Terkini",
+        "BREAKING NEWS: Jampidsus Febrie Buka Suara Penggeledahan Polri",
+        "13 Lokasi Digeledah Polisi! Kortastipidkor Polri Usut Dugaan Korupsi Besar Jampidsus |FULL (10/7)",
+        "BREAKING NEWS - KEJAGUNG TANGGAPI PENANGANAN 3 KASUS MEGA KORUPSI OLEH POLRI",
+        "BREAKING NEWS -  Febrie Adriansyah Buka Suara Isu Keterkaitan Kasus BGN",
+        "Kita menunggu polri semua menunggu polri. Ayo polri jangan sampai berhenti di tengah jalan",
+        "Yang pasti NKRI di sarang para pejabat koruptor , jadi institusi polri ,jaksa ,kelompok para korupto"
+      ]
+    },
     "TNI": {
       "role": "Militer",
-      "count": 9,
+      "count": 21,
       "articles": [
         "Menjawab Keresahan, Menjaga Profesionalisme TNI-Polri",
-        "Risiko Perubahan Paradigma dalam UU TNI",
         "Komisi III DPR Minta TNI-Polri Solid dalam Pemberantasan Korupsi",
         "Soal Pengamanan di Rumah Jampidsus, Ini Kata TNI",
         "Guru Besar UINSA Surabaya Beberkan Catatan Kritis RUU TNI, Polri, Kejaksaan",
         "Kejaksaan Agung: Hubungan dengan Polri Baik-baik Saja",
         "Konflik Polri vs Kejaksaan dan Bayang-Bayang Intervensi Militer",
         "Peristiwa Jampidsus Kejagung: Membaca Ketegangan Polri, TNI, dan Kejaksaan",
-        "Prabowo Panggil Panglima TNI, Kapolri, hingga Jaksa Agung ke Istana"
+        "Prabowo Panggil Panglima TNI, Kapolri, hingga Jaksa Agung ke Istana",
+        "Risiko Perubahan Paradigma dalam UU TNI",
+        "TNI Jaga Rumah Febrie dan Kantor Kejagung: 2 Unit Panser Anoa Dikerahkan",
+        "TNI Tempatkan Panser Anoa di Depan Kejagung dan Rumah Jampidsus",
+        "BAIS TNI Dituduh Culik Personel Densus 88 yang Sedang Tugas",
+        "Briptu Faisal Anggota Densus 88 Dibawa Paksa oleh BAIS TNI",
+        "Prabowo Panggil Panglima TNI, Kapolri, Jaksa Agung Redakan Konflik",
+        "Sosok Ferry Yanto Hongkiriwang, Mantan Sales Kipas Angin yang Membuat Tegang Polri, TNI dan Jaksa",
+        "Kejaksaan Agung Buka Bicara Soal Penggeledahan Polri & Rumah Dijaga TNI #beritasatu",
+        "INTEL DENSUS DIANIAYA BAIS TNI⁉️ KISAH GELAP FERRY BOBOHO & KASUS 300 TRILIUN JAMPIDSUS KEJAGUNG",
+        "Rumah Jampidsus Febrie Dijaga Ketat TNI usai Penggeledahan Kafe di Cipete, Dugaan Kasus Korupsi!",
+        "Sosok Febrie Adriansyah, Jampidsus yang Rumahnya Dijaga Ketat TNI usai Polri Geledah Kafe di Jaksel",
+        "Kejagung Buka Suara Usai Penggeledahan Polri dan Rumah Jampidsus Dijaga TNI",
+        "Rumah Jaksa Dijaga Ketat TNI, Kejagung Tegaskan Hormati Penggeledahan Polisi 3 Kasus Dugaan Korupsi"
       ]
     },
-    "Prabowo": {
-      "role": "Presiden",
+    "Febrie Ardiansyah": {
+      "role": "Jampidsus",
+      "count": 27,
+      "articles": [
+        "Jampidsus Jawab soal Isu Mundur: Saya Masih Terima Perintah Tangani Perkara",
+        "Soal Pengamanan di Rumah Jampidsus, Ini Kata TNI",
+        "Kejaksaan Agung: Hubungan dengan Polri Baik-baik Saja",
+        "Konflik Polri vs Kejaksaan dan Bayang-Bayang Intervensi Militer",
+        "Peristiwa Jampidsus Kejagung: Membaca Ketegangan Polri, TNI, dan Kejaksaan",
+        "Korupsi Timah Rp300 Triliun: Kejagung Tetapkan 22 Tersangka",
+        "Korupsi Timah Rp300 Triliun: Jampidsus Febrie Ardiansyah Pimpin Pengusutan",
+        "Skandal Timah Rp300 Triliun: BPKP Audit, 22 Tersangka dari Berbagai Pihak",
+        "Penggeledahan 12 Lokasi: Brankas Tersembunyi di Sentul Berisi 74 Kg Emas dan Rp476 Miliar",
+        "TNI Jaga Rumah Febrie dan Kantor Kejagung: 2 Unit Panser Anoa Dikerahkan",
+        "TNI Tempatkan Panser Anoa di Depan Kejagung dan Rumah Jampidsus",
+        "Temuan Foto Keluarga Jampidsus di Brankas Sentul, Polri Dalami Keterkaitan",
+        "Ferry Yanto Orang Terdekat Jampidsus Febrie Adriansyah",
+        "Untouchable di Era Jokowi, Disikat di Era Prabowo: Pusaran Dugaan Korupsi Febrie Adriansyah",
+        "Jejak Emas di Balik Gerimis Sentul: Ketika Brankas Bicara",
+        "Podcast Roemah Pemoeda: Buka-Bukaan Hubungan Ferry Boboho dengan Jampidsus",
+        "Kejati Terima SPDP Penculikan Anggota Polisi, Status Ferry Boboho Terlapor",
+        "Rumah Jampidsus Febrie Dijaga Ketat TNI usai Penggeledahan Kafe di Cipete, Dugaan Kasus Korupsi!",
+        "Kejagung Buka Suara soal Isu Penggeledahan Rumah Jampidsus Febrie",
+        "Sosok Febrie Adriansyah, Jampidsus yang Rumahnya Dijaga Ketat TNI usai Polri Geledah Kafe di Jaksel",
+        "Detik-Detik Pintu Brankas Dibuka Diduga Milik Jampidsus Febrie Ardiansyah, Apa isinya?",
+        "Ditemukan 74 Kg Emas, Ini LHKPN Janggal Jampidsus Febrie Ardiansyah",
+        "BREAKING NEWS  - JAMPIDSUS FEBRIE ADRIANSYAH BERI KETERANGAN TERKAIT DUGAAN KASUS KORUPSI",
+        "🔴 Breaking News | Jampidsus Febrie Buka Suara Soal Penggeledahan Polri",
+        "BREAKING NEWS: Jampidsus Febrie Buka Suara Penggeledahan Polri",
+        "Rumah Jaksa Dijaga Ketat TNI, Kejagung Tegaskan Hormati Penggeledahan Polisi 3 Kasus Dugaan Korupsi",
+        "BREAKING NEWS -  Febrie Adriansyah Buka Suara Isu Keterkaitan Kasus BGN"
+      ]
+    },
+    "Kejaksaan Agung": {
+      "role": "Lembaga Penuntut",
+      "count": 52,
+      "articles": [
+        "Jampidsus Jawab soal Isu Mundur: Saya Masih Terima Perintah Tangani Perkara",
+        "Kapolri Dorong Sinergi Polri-Kejagung Terapkan KUHP-KUHAP Baru agar Penanganan Perkara Efektif",
+        "Kapolri-Jaksa Agung Teken MoU Sinergitas Penerapan KUHP Baru",
+        "Kejagung Imbau Publik Tak Bikin Opini Kaitkan Kasus Cuma dari Medsos",
+        "Kejagung Hormati Proses Penyidikan Polri Terkait 3 Perkara Korupsi",
+        "Soal Pengamanan di Rumah Jampidsus, Ini Kata TNI",
+        "Guru Besar UINSA Surabaya Beberkan Catatan Kritis RUU TNI, Polri, Kejaksaan",
+        "Kejaksaan Agung: Hubungan dengan Polri Baik-baik Saja",
+        "Konflik Polri vs Kejaksaan dan Bayang-Bayang Intervensi Militer",
+        "Peristiwa Jampidsus Kejagung: Membaca Ketegangan Polri, TNI, dan Kejaksaan",
+        "Soal Perpres Perlindungan Jaksa, Komjak Bantah Ada Konflik Kejaksaan dengan Polri",
+        "Penyusunan Kabinet, Penunjukan Jaksa Agung Diingatkan Tak Berafiliasi Parpol",
+        "Jaksa Agung dan Kapolri Satukan Persepsi Perkuat Kerja Sama Hadapi KUHP Baru",
+        "Kejaksaan Agung Terbitkan Surat Rahasia Meningkatkan Kewaspadaan",
+        "Reaksi Penegak Hukum Setelah KUHP dan KUHAP Baru Berlaku Secara Sah",
+        "Langkah Penegak Hukum Usai KUHP dan KUHAP Baru Resmi Berlaku",
+        "Korupsi Timah Rp300 Triliun: Kejagung Tetapkan 22 Tersangka",
+        "Korupsi Timah Rp300 Triliun: Jampidsus Febrie Ardiansyah Pimpin Pengusutan",
+        "Skandal Timah Rp300 Triliun: BPKP Audit, 22 Tersangka dari Berbagai Pihak",
+        "Konvoi Brimob di Depan Gedung Kejagung: Show of Force Polri?",
+        "Brimob Pamer Kekuatan di Depan Kejaksaan Agung, Ini Reaksi Kejagung",
+        "KompasTV: Konvoi Brimob di Kejagung, Sinyal Ketegangan dengan Polri?",
+        "Ferry Boboho Ditangkap: Pemilik de'Clan Cipete Jadi Makelar Kasus Kejagung?",
+        "TNI Jaga Rumah Febrie dan Kantor Kejagung: 2 Unit Panser Anoa Dikerahkan",
+        "TNI Tempatkan Panser Anoa di Depan Kejagung dan Rumah Jampidsus",
+        "Perpres 66/2025 tentang Perlindungan Jaksa: Komjak Bantah Ada Konflik dengan Polri",
+        "Pertemuan Sinergitas Jaksa Agung dan Kapolri di Mabes Polri Desember 2025",
+        "Surat Rahasia R-696 Kejagung: Waspada terhadap AGHT",
+        "Ferry Boboho: Pengakuan sebagai Makelar Kasus yang Hubungkan Koruptor dengan Kejaksaan",
+        "Makelar Kasus di Lingkungan Kejaksaan",
+        "Ferry Boboho Pintu Masuk Membongkar Jual Beli Hukum di Tubuh Kejagung",
+        "Insiden Ferry Boboho: Sinyal Kuat Korps Adhyaksa Butuh Penyegaran",
+        "Sosok Ferry Yanto Hongkiriwang, Mantan Sales Kipas Angin yang Membuat Tegang Polri, TNI dan Jaksa",
+        "Ferry Boboho: Bos Kafe di Pusaran Dugaan Markus Kejaksaan",
+        "Ponsel Ferry Boboho: Kunci yang Buka Pintu Penggeledahan Kafe de'Clan",
+        "Insiden Ferry Boboho: Alarm untuk Korps Adhyaksa!",
+        "Ferry Boboho Makelar Kasus Kejaksaan - Thread Analisis",
+        "Kejati Terima SPDP Penculikan Anggota Polisi, Status Ferry...",
+        "Kejaksaan Agung Tanggapi Penanganan Kasus Korupsi Oleh Polri",
+        "Kejaksaan Agung Buka Bicara Soal Penggeledahan Polri & Rumah Dijaga TNI #beritasatu",
+        "Komisi Kejaksaan Tegaskan Tak Ada Konflik dengan Polri di Balik Penggeledahan Kasus Korupsi",
+        "Rumah Jampidsus Febrie Dijaga Ketat TNI usai Penggeledahan Kafe di Cipete, Dugaan Kasus Korupsi!",
+        "Kejagung Buka Suara soal Isu Penggeledahan Rumah Jampidsus Febrie",
+        "Korupsi Timah Rp 300 Triliun! Kejaksaan bongkar kerugian raksasa",
+        "Kejagung Buka Suara Usai Penggeledahan Polri dan Rumah Jampidsus Dijaga TNI",
+        "🔴 Breaking News | Jampidsus Febrie Buka Suara Soal Penggeledahan Polri",
+        "Kapuspenkum Kejagung Buka Suara soal Penggeledahan Polri di Kasus Korupsi Batu Bara | iNews Terkini",
+        "BREAKING NEWS: Jampidsus Febrie Buka Suara Penggeledahan Polri",
+        "BREAKING NEWS - Kejagung Respons 3 Kasus Korupsi yang Ditangani Kortastipidkor",
+        "Respons Kejaksaan Agung Terkait Langkah Hukum Kortas Tipidkor - [Top News]",
+        "Rumah Jaksa Dijaga Ketat TNI, Kejagung Tegaskan Hormati Penggeledahan Polisi 3 Kasus Dugaan Korupsi",
+        "BREAKING NEWS - KEJAGUNG TANGGAPI PENANGANAN 3 KASUS MEGA KORUPSI OLEH POLRI"
+      ]
+    },
+    "Listyo Sigit Prabowo": {
+      "role": "Kapolri",
       "count": 10,
       "articles": [
-        "Perhimpunan Dokter Umum RI Surati Prabowo, Desak Perlindungan Nakes",
-        "Pidato Lengkap Prabowo di Hari Bhayangkara Ke-80",
-        "Prabowo Jadi Inspektur Upacara Hari Bhayangkara ke-80 di Satlat Brimob Cikeas",
+        "Kapolri Dorong Sinergi Polri-Kejagung Terapkan KUHP-KUHAP Baru agar Penanganan Perkara Efektif",
+        "Kapolri-Jaksa Agung Teken MoU Sinergitas Penerapan KUHP Baru",
         "Mengapa Prabowo Tak Kunjung Mengganti Kapolri dan Jaksa Agung",
         "Prabowo Panggil Panglima TNI, Kapolri, hingga Jaksa Agung ke Istana",
         "Presiden Prabowo Mendadak Panggil Kapolri-Jaksa Agung ke Istana",
-        "Penyusunan Kabinet, Penunjukan Jaksa Agung Diingatkan Tak Berafiliasi Parpol",
+        "Jaksa Agung dan Kapolri Satukan Persepsi Perkuat Kerja Sama Hadapi KUHP Baru",
+        "Prabowo Panggil Kapolri-Jaksa Agung ke Istana Perintahkan Tindak Tegas Pengoplos Beras",
+        "Di Rakernis Reskrim, Kapolri Minta Penyidik Adaptif Hadapi Modus-modus Baru",
+        "Pertemuan Sinergitas Jaksa Agung dan Kapolri di Mabes Polri Desember 2025",
+        "Prabowo Panggil Panglima TNI, Kapolri, Jaksa Agung Redakan Konflik"
+      ]
+    },
+    "ST Burhanuddin": {
+      "role": "Jaksa Agung",
+      "count": 10,
+      "articles": [
+        "Kapolri Dorong Sinergi Polri-Kejagung Terapkan KUHP-KUHAP Baru agar Penanganan Perkara Efektif",
+        "Kapolri-Jaksa Agung Teken MoU Sinergitas Penerapan KUHP Baru",
+        "Mengapa Prabowo Tak Kunjung Mengganti Kapolri dan Jaksa Agung",
+        "Prabowo Panggil Panglima TNI, Kapolri, hingga Jaksa Agung ke Istana",
+        "Presiden Prabowo Mendadak Panggil Kapolri-Jaksa Agung ke Istana",
         "Jaksa Agung dan Kapolri Satukan Persepsi Perkuat Kerja Sama Hadapi KUHP Baru",
         "Presiden Prabowo Tunjuk Sanitiar Burhanuddin Sebagai Jaksa Agung 2024-2029",
-        "Prabowo Panggil Kapolri-Jaksa Agung ke Istana Perintahkan Tindak Tegas Pengoplos Beras"
+        "Prabowo Panggil Kapolri-Jaksa Agung ke Istana Perintahkan Tindak Tegas Pengoplos Beras",
+        "Pertemuan Sinergitas Jaksa Agung dan Kapolri di Mabes Polri Desember 2025",
+        "Prabowo Panggil Panglima TNI, Kapolri, Jaksa Agung Redakan Konflik"
       ]
     },
     "Komisi III DPR": {
@@ -524,82 +1012,100 @@
         "Komisi III DPR Minta TNI-Polri Solid dalam Pemberantasan Korupsi"
       ]
     },
-    "Febrie Adriansyah": {
-      "role": "Jampidsus",
-      "count": 2,
+    "Ferry Boboho": {
+      "role": "Pengusaha/Makelar Kasus",
+      "count": 25,
       "articles": [
         "Kejaksaan Agung: Hubungan dengan Polri Baik-baik Saja",
-        "Konflik Polri vs Kejaksaan dan Bayang-Bayang Intervensi Militer"
-      ]
-    },
-    "Ferry Hongkiriwang": {
-      "role": "Pengusaha/Operator",
-      "count": 2,
-      "articles": [
-        "Kejaksaan Agung: Hubungan dengan Polri Baik-baik Saja",
-        "Konflik Polri vs Kejaksaan dan Bayang-Bayang Intervensi Militer"
+        "Konflik Polri vs Kejaksaan dan Bayang-Bayang Intervensi Militer",
+        "Ferry Yanto Hongkiriwang alias Ferry Boboho: Mantan Salesman Kipas Angin Jadi Makelar Kasus",
+        "Ferry Boboho: Dari Salesman Kipas Angin ke Pengusaha Kafe, Tersangka Makelar Kasus",
+        "Ferry Boboho Ditangkap: Pemilik de'Clan Cipete Jadi Makelar Kasus Kejagung?",
+        "Penggeledahan 12 Lokasi oleh Kortastipidkor dan Polda Metro: Brankas Rp60 Miliar di de'Clan",
+        "BAIS TNI Dituduh Culik Personel Densus 88 yang Sedang Tugas",
+        "Briptu Faisal Anggota Densus 88 Dibawa Paksa oleh BAIS TNI",
+        "Ferry Boboho: Pengakuan sebagai Makelar Kasus yang Hubungkan Koruptor dengan Kejaksaan",
+        "Makelar Kasus di Lingkungan Kejaksaan",
+        "Ferry Boboho Pintu Masuk Membongkar Jual Beli Hukum di Tubuh Kejagung",
+        "Ferry Boboho Diduga Pelaku Penculikan, Tidak Ditahan Bukti Aparat Hukum Tak Berdaya",
+        "Insiden Ferry Boboho: Sinyal Kuat Korps Adhyaksa Butuh Penyegaran",
+        "Ferry Yanto Orang Terdekat Jampidsus Febrie Adriansyah",
+        "Sosok Ferry Yanto Hongkiriwang, Mantan Sales Kipas Angin yang Membuat Tegang Polri, TNI dan Jaksa",
+        "Ferry Boboho: Bos Kafe di Pusaran Dugaan Markus Kejaksaan",
+        "Ponsel Ferry Boboho: Kunci yang Buka Pintu Penggeledahan Kafe de'Clan",
+        "Untouchable di Era Jokowi, Disikat di Era Prabowo: Pusaran Dugaan Korupsi Febrie Adriansyah",
+        "Jejak Emas di Balik Gerimis Sentul: Ketika Brankas Bicara",
+        "Insiden Ferry Boboho: Alarm untuk Korps Adhyaksa!",
+        "Ferry Boboho Makelar Kasus Kejaksaan - Thread Analisis",
+        "Kejati Terima SPDP Penculikan Anggota Polisi, Status Ferry...",
+        "Podcast Roemah Pemoeda: Buka-Bukaan Hubungan Ferry Boboho dengan Jampidsus",
+        "Kejati Terima SPDP Penculikan Anggota Polisi, Status Ferry Boboho Terlapor",
+        "INTEL DENSUS DIANIAYA BAIS TNI⁉️ KISAH GELAP FERRY BOBOHO & KASUS 300 TRILIUN JAMPIDSUS KEJAGUNG"
       ]
     },
     "Densus 88": {
-      "role": "Antiteror",
-      "count": 1,
+      "role": "Antiteror Polri",
+      "count": 4,
       "articles": [
-        "Konflik Polri vs Kejaksaan dan Bayang-Bayang Intervensi Militer"
+        "Konflik Polri vs Kejaksaan dan Bayang-Bayang Intervensi Militer",
+        "BAIS TNI Dituduh Culik Personel Densus 88 yang Sedang Tugas",
+        "Briptu Faisal Anggota Densus 88 Dibawa Paksa oleh BAIS TNI",
+        "INTEL DENSUS DIANIAYA BAIS TNI⁉️ KISAH GELAP FERRY BOBOHO & KASUS 300 TRILIUN JAMPIDSUS KEJAGUNG"
+      ]
+    },
+    "BAIS TNI": {
+      "role": "Intelijen Militer",
+      "count": 5,
+      "articles": [
+        "Konflik Polri vs Kejaksaan dan Bayang-Bayang Intervensi Militer",
+        "BAIS TNI Dituduh Culik Personel Densus 88 yang Sedang Tugas",
+        "Briptu Faisal Anggota Densus 88 Dibawa Paksa oleh BAIS TNI",
+        "Kejati Terima SPDP Penculikan Anggota Polisi, Status Ferry...",
+        "INTEL DENSUS DIANIAYA BAIS TNI⁉️ KISAH GELAP FERRY BOBOHO & KASUS 300 TRILIUN JAMPIDSUS KEJAGUNG"
       ]
     },
     "Prabowo Subianto": {
       "role": "Presiden",
-      "count": 5,
+      "count": 10,
       "articles": [
         "Mengapa Prabowo Tak Kunjung Mengganti Kapolri dan Jaksa Agung",
         "Prabowo Panggil Panglima TNI, Kapolri, hingga Jaksa Agung ke Istana",
         "Presiden Prabowo Mendadak Panggil Kapolri-Jaksa Agung ke Istana",
+        "Penyusunan Kabinet, Penunjukan Jaksa Agung Diingatkan Tak Berafiliasi Parpol",
         "Presiden Prabowo Tunjuk Sanitiar Burhanuddin Sebagai Jaksa Agung 2024-2029",
-        "Prabowo Panggil Kapolri-Jaksa Agung ke Istana Perintahkan Tindak Tegas Pengoplos Beras"
+        "Prabowo Panggil Kapolri-Jaksa Agung ke Istana Perintahkan Tindak Tegas Pengoplos Beras",
+        "Pidato Lengkap Prabowo di Hari Bhayangkara Ke-80",
+        "Prabowo Jadi Inspektur Upacara Hari Bhayangkara ke-80 di Satlat Brimob Cikeas",
+        "Prabowo Panggil Panglima TNI, Kapolri, Jaksa Agung Redakan Konflik",
+        "Untouchable di Era Jokowi, Disikat di Era Prabowo: Pusaran Dugaan Korupsi Febrie Adriansyah"
       ]
     },
-    "ST Burhanuddin": {
-      "role": "Jaksa Agung",
-      "count": 3,
-      "articles": [
-        "Presiden Prabowo Mendadak Panggil Kapolri-Jaksa Agung ke Istana",
-        "Jaksa Agung dan Kapolri Satukan Persepsi Perkuat Kerja Sama Hadapi KUHP Baru",
-        "Prabowo Panggil Kapolri-Jaksa Agung ke Istana Perintahkan Tindak Tegas Pengoplos Beras"
-      ]
-    },
-    "Burhanuddin": {
-      "role": "Jaksa Agung",
+    "Brimob": {
+      "role": "Mobil Brigade Polri",
       "count": 4,
       "articles": [
-        "Presiden Prabowo Mendadak Panggil Kapolri-Jaksa Agung ke Istana",
-        "Jaksa Agung dan Kapolri Satukan Persepsi Perkuat Kerja Sama Hadapi KUHP Baru",
-        "Presiden Prabowo Tunjuk Sanitiar Burhanuddin Sebagai Jaksa Agung 2024-2029",
-        "Prabowo Panggil Kapolri-Jaksa Agung ke Istana Perintahkan Tindak Tegas Pengoplos Beras"
+        "Prabowo Jadi Inspektur Upacara Hari Bhayangkara ke-80 di Satlat Brimob Cikeas",
+        "Konvoi Brimob di Depan Gedung Kejagung: Show of Force Polri?",
+        "Brimob Pamer Kekuatan di Depan Kejaksaan Agung, Ini Reaksi Kejagung",
+        "KompasTV: Konvoi Brimob di Kejagung, Sinyal Ketegangan dengan Polri?"
       ]
     },
-    "Listyo Sigit Prabowo": {
-      "role": "Kapolri",
-      "count": 3,
+    "Jokowi": {
+      "role": "Presiden ke-7",
+      "count": 4,
       "articles": [
-        "Presiden Prabowo Mendadak Panggil Kapolri-Jaksa Agung ke Istana",
-        "Jaksa Agung dan Kapolri Satukan Persepsi Perkuat Kerja Sama Hadapi KUHP Baru",
-        "Prabowo Panggil Kapolri-Jaksa Agung ke Istana Perintahkan Tindak Tegas Pengoplos Beras"
+        "Perpres 122/2024: Kortastipidkor Polri Dibentuk, Dipimpin Irjen Totok Suharyanto",
+        "Mengenal Kortastipidkor: Satuan Anti Korupsi Polri Bentukan Jokowi",
+        "Jokowi Teken Perpres 122/2024: Kortastipidkor Polri Resmi Dibentuk",
+        "Untouchable di Era Jokowi, Disikat di Era Prabowo: Pusaran Dugaan Korupsi Febrie Adriansyah"
       ]
     },
-    "Listyo Sigit": {
-      "role": "Kapolri",
-      "count": 3,
+    "Polda Metro Jaya": {
+      "role": "Kepolisian Daerah",
+      "count": 2,
       "articles": [
-        "Presiden Prabowo Mendadak Panggil Kapolri-Jaksa Agung ke Istana",
-        "Jaksa Agung dan Kapolri Satukan Persepsi Perkuat Kerja Sama Hadapi KUHP Baru",
-        "Prabowo Panggil Kapolri-Jaksa Agung ke Istana Perintahkan Tindak Tegas Pengoplos Beras"
-      ]
-    },
-    "Sanitiar Burhanuddin": {
-      "role": "Jaksa Agung",
-      "count": 1,
-      "articles": [
-        "Presiden Prabowo Tunjuk Sanitiar Burhanuddin Sebagai Jaksa Agung 2024-2029"
+        "Ferry Yanto Hongkiriwang alias Ferry Boboho: Mantan Salesman Kipas Angin Jadi Makelar Kasus",
+        "Penggeledahan 12 Lokasi oleh Kortastipidkor dan Polda Metro: Brankas Rp60 Miliar di de'Clan"
       ]
     }
   }

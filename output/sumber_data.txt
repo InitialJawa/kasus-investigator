@@ -1,90 +1,109 @@
 ======================================================================
 LAPORAN SUMBER DATA - KASUS INVESTIGASI
 Konflik Kejaksaan Agung vs Polri (2023-2026)
+Generated: 2026-07-10 15:14:53
 ======================================================================
 
-RINGKASAN UNTUK ORANG AWAM:
-======================================================================
-Apa ini?
-  File ini berisi daftar lengkap semua sumber berita yang digunakan
-  dalam analisis kasus konflik antara Kejaksaan Agung dan Polri.
-  Gunakan file ini untuk mengecek sendiri apakah informasi di
-  laporan PDF benar atau tidak.
-
-Bagaimana cara pakai?
-  1. Cari artikel yang menarik perhatian Anda
-  2. Buka link-nya di browser
-  3. Bandingkan dengan yang tertulis di laporan PDF
-
-Catatan penting:
-  - Semua sumber dari media publik (bukan dokumen rahasia)
-  - Data dikumpulkan: Juli 2026
-  - Total: 62 artikel dari 10 sumber media
-  - Metode: web scraping + websearch
-
-Data Statistik:
-  - Sentimen: Negatif (9), Netral (50), Positif (3)
-  - Aktor paling disebut: Prabowo (15x), TNI (9x), Burhanuddin (8x)
-  - Top pengaruh jaringan: Burhanuddin (0.1) > Prabowo (0.067) > Listyo Sigit (0.029)
-======================================================================
+Total artikel: 96
+Sumber: Detik, Tempo, Infonews, Sindikatpost, Kompas, CNN Indonesia, Sindonews, MetroTV, Badiklat Kejaksaan, iNews, CNBC Indonesia, Viva, Liputan6, Inilah, KompasTV, Hukumonline, Suara, IndonesiaWatch, RMOL, AFU, Seruji, Beritasatu, Wikipedia, WordPress, MonitorIndonesia, Aktual.com, Suara.com, Indofakta, Instagram, X/Twitter, YouTube, Podcast, Youtube
 
 ----------------------------------------------------------------------
 STATISTIK PER SUMBER:
 ----------------------------------------------------------------------
-  Detik: 50 artikel
-  Tempo: 2 artikel
+  Youtube: 28 artikel
+  Detik: 17 artikel
+  Tempo: 5 artikel
+  CNN Indonesia: 4 artikel
+  Seruji: 4 artikel
+  Kompas: 3 artikel
+  Liputan6: 3 artikel
+  RMOL: 3 artikel
   Infonews: 2 artikel
   Badiklat Kejaksaan: 2 artikel
+  Suara: 2 artikel
+  IndonesiaWatch: 2 artikel
   Sindikatpost: 1 artikel
-  Kompas: 1 artikel
-  CNN Indonesia: 1 artikel
   Sindonews: 1 artikel
   MetroTV: 1 artikel
   iNews: 1 artikel
+  CNBC Indonesia: 1 artikel
+  Viva: 1 artikel
+  Inilah: 1 artikel
+  KompasTV: 1 artikel
+  Hukumonline: 1 artikel
+  AFU: 1 artikel
+  Beritasatu: 1 artikel
+  Wikipedia: 1 artikel
+  WordPress: 1 artikel
+  MonitorIndonesia: 1 artikel
+  Aktual.com: 1 artikel
+  Suara.com: 1 artikel
+  Indofakta: 1 artikel
+  Instagram: 1 artikel
+  X/Twitter: 1 artikel
+  YouTube: 1 artikel
+  Podcast: 1 artikel
 
 ----------------------------------------------------------------------
 AKTOR YANG DISEBUT:
 ----------------------------------------------------------------------
-  Prabowo (Presiden): 10 kali
-    - Perhimpunan Dokter Umum RI Surati Prabowo, Desak Perlindungan Nakes
-    - Pidato Lengkap Prabowo di Hari Bhayangkara Ke-80
-    - Prabowo Jadi Inspektur Upacara Hari Bhayangkara ke-80 di Satlat Brimob Cikeas
-  TNI (Militer): 9 kali
+  Polri (Kepolisian): 54 kali
+    - ISESS Minta Penanganan Korupsi Kortas Tipikor Polri Bebas Intervensi
     - Menjawab Keresahan, Menjaga Profesionalisme TNI-Polri
-    - Risiko Perubahan Paradigma dalam UU TNI
+    - Kapolri Dorong Sinergi Polri-Kejagung Terapkan KUHP-KUHAP Baru agar Penanganan Perkara Efektif
+  Kejaksaan Agung (Lembaga Penuntut): 52 kali
+    - Jampidsus Jawab soal Isu Mundur: Saya Masih Terima Perintah Tangani Perkara
+    - Kapolri Dorong Sinergi Polri-Kejagung Terapkan KUHP-KUHAP Baru agar Penanganan Perkara Efektif
+    - Kapolri-Jaksa Agung Teken MoU Sinergitas Penerapan KUHP Baru
+  Febrie Ardiansyah (Jampidsus): 27 kali
+    - Jampidsus Jawab soal Isu Mundur: Saya Masih Terima Perintah Tangani Perkara
+    - Soal Pengamanan di Rumah Jampidsus, Ini Kata TNI
+    - Kejaksaan Agung: Hubungan dengan Polri Baik-baik Saja
+  Ferry Boboho (Pengusaha/Makelar Kasus): 25 kali
+    - Kejaksaan Agung: Hubungan dengan Polri Baik-baik Saja
+    - Konflik Polri vs Kejaksaan dan Bayang-Bayang Intervensi Militer
+    - Ferry Yanto Hongkiriwang alias Ferry Boboho: Mantan Salesman Kipas Angin Jadi Makelar Kasus
+  TNI (Militer): 21 kali
+    - Menjawab Keresahan, Menjaga Profesionalisme TNI-Polri
     - Komisi III DPR Minta TNI-Polri Solid dalam Pemberantasan Korupsi
-  Prabowo Subianto (Presiden): 5 kali
+    - Soal Pengamanan di Rumah Jampidsus, Ini Kata TNI
+  Kortastipidkor (Korps Tipikor Polri): 11 kali
+    - ISESS Minta Penanganan Korupsi Kortas Tipikor Polri Bebas Intervensi
+    - Perpres 122/2024: Kortastipidkor Polri Dibentuk, Dipimpin Irjen Totok Suharyanto
+    - Kortastipidkor Polri: Tugas dan Fungsi 3 Direktorat di Bawah Irjen Totok Suharyanto
+  Listyo Sigit Prabowo (Kapolri): 10 kali
+    - Kapolri Dorong Sinergi Polri-Kejagung Terapkan KUHP-KUHAP Baru agar Penanganan Perkara Efektif
+    - Kapolri-Jaksa Agung Teken MoU Sinergitas Penerapan KUHP Baru
+    - Mengapa Prabowo Tak Kunjung Mengganti Kapolri dan Jaksa Agung
+  ST Burhanuddin (Jaksa Agung): 10 kali
+    - Kapolri Dorong Sinergi Polri-Kejagung Terapkan KUHP-KUHAP Baru agar Penanganan Perkara Efektif
+    - Kapolri-Jaksa Agung Teken MoU Sinergitas Penerapan KUHP Baru
+    - Mengapa Prabowo Tak Kunjung Mengganti Kapolri dan Jaksa Agung
+  Prabowo Subianto (Presiden): 10 kali
     - Mengapa Prabowo Tak Kunjung Mengganti Kapolri dan Jaksa Agung
     - Prabowo Panggil Panglima TNI, Kapolri, hingga Jaksa Agung ke Istana
     - Presiden Prabowo Mendadak Panggil Kapolri-Jaksa Agung ke Istana
-  Burhanuddin (Jaksa Agung): 4 kali
-    - Presiden Prabowo Mendadak Panggil Kapolri-Jaksa Agung ke Istana
-    - Jaksa Agung dan Kapolri Satukan Persepsi Perkuat Kerja Sama Hadapi KUHP Baru
-    - Presiden Prabowo Tunjuk Sanitiar Burhanuddin Sebagai Jaksa Agung 2024-2029
-  ST Burhanuddin (Jaksa Agung): 3 kali
-    - Presiden Prabowo Mendadak Panggil Kapolri-Jaksa Agung ke Istana
-    - Jaksa Agung dan Kapolri Satukan Persepsi Perkuat Kerja Sama Hadapi KUHP Baru
-    - Prabowo Panggil Kapolri-Jaksa Agung ke Istana Perintahkan Tindak Tegas Pengoplos Beras
-  Listyo Sigit Prabowo (Kapolri): 3 kali
-    - Presiden Prabowo Mendadak Panggil Kapolri-Jaksa Agung ke Istana
-    - Jaksa Agung dan Kapolri Satukan Persepsi Perkuat Kerja Sama Hadapi KUHP Baru
-    - Prabowo Panggil Kapolri-Jaksa Agung ke Istana Perintahkan Tindak Tegas Pengoplos Beras
-  Listyo Sigit (Kapolri): 3 kali
-    - Presiden Prabowo Mendadak Panggil Kapolri-Jaksa Agung ke Istana
-    - Jaksa Agung dan Kapolri Satukan Persepsi Perkuat Kerja Sama Hadapi KUHP Baru
-    - Prabowo Panggil Kapolri-Jaksa Agung ke Istana Perintahkan Tindak Tegas Pengoplos Beras
-  Febrie Adriansyah (Jampidsus): 2 kali
-    - Kejaksaan Agung: Hubungan dengan Polri Baik-baik Saja
+  BAIS TNI (Intelijen Militer): 5 kali
     - Konflik Polri vs Kejaksaan dan Bayang-Bayang Intervensi Militer
-  Ferry Hongkiriwang (Pengusaha/Operator): 2 kali
-    - Kejaksaan Agung: Hubungan dengan Polri Baik-baik Saja
+    - BAIS TNI Dituduh Culik Personel Densus 88 yang Sedang Tugas
+    - Briptu Faisal Anggota Densus 88 Dibawa Paksa oleh BAIS TNI
+  Densus 88 (Antiteror Polri): 4 kali
     - Konflik Polri vs Kejaksaan dan Bayang-Bayang Intervensi Militer
+    - BAIS TNI Dituduh Culik Personel Densus 88 yang Sedang Tugas
+    - Briptu Faisal Anggota Densus 88 Dibawa Paksa oleh BAIS TNI
+  Brimob (Mobil Brigade Polri): 4 kali
+    - Prabowo Jadi Inspektur Upacara Hari Bhayangkara ke-80 di Satlat Brimob Cikeas
+    - Konvoi Brimob di Depan Gedung Kejagung: Show of Force Polri?
+    - Brimob Pamer Kekuatan di Depan Kejaksaan Agung, Ini Reaksi Kejagung
+  Jokowi (Presiden ke-7): 4 kali
+    - Perpres 122/2024: Kortastipidkor Polri Dibentuk, Dipimpin Irjen Totok Suharyanto
+    - Mengenal Kortastipidkor: Satuan Anti Korupsi Polri Bentukan Jokowi
+    - Jokowi Teken Perpres 122/2024: Kortastipidkor Polri Resmi Dibentuk
+  Polda Metro Jaya (Kepolisian Daerah): 2 kali
+    - Ferry Yanto Hongkiriwang alias Ferry Boboho: Mantan Salesman Kipas Angin Jadi Makelar Kasus
+    - Penggeledahan 12 Lokasi oleh Kortastipidkor dan Polda Metro: Brankas Rp60 Miliar di de'Clan
   Komisi III DPR (DPR): 1 kali
     - Komisi III DPR Minta TNI-Polri Solid dalam Pemberantasan Korupsi
-  Densus 88 (Antiteror): 1 kali
-    - Konflik Polri vs Kejaksaan dan Bayang-Bayang Intervensi Militer
-  Sanitiar Burhanuddin (Jaksa Agung): 1 kali
-    - Presiden Prabowo Tunjuk Sanitiar Burhanuddin Sebagai Jaksa Agung 2024-2029
 
 ----------------------------------------------------------------------
 DAFTAR LENGKAP ARTIKEL:
@@ -92,375 +111,579 @@ DAFTAR LENGKAP ARTIKEL:
 
 [001] ISESS Minta Penanganan Korupsi Kortas Tipikor Polri Bebas Intervensi
   Sumber: Detik
-  Tanggal: None
+  Tanggal: 2025-08-20
   URL: https://news.detik.com/berita/d-8566954/isess-minta-penanganan-korupsi-kortas-tipikor-polri-bebas-intervensi
-  Snippet: 
+  Snippet: ISESS mendorong Kortastipidkor Polri bekerja independen tanpa intervensi lembaga lain.
 
-[002] Gubernur Lemhannas Tutup P3N 27: Pemimpin Nasional Harus Berintegritas
+[002] Menjawab Keresahan, Menjaga Profesionalisme TNI-Polri
   Sumber: Detik
-  Tanggal: None
-  URL: https://news.detik.com/berita/d-8517968/gubernur-lemhannas-tutup-p3n-27-pemimpin-nasional-harus-berintegritas
-  Snippet: 
-
-[003] Transaksi Judol Terus Diungkap, Payment Gateway Perlu Diperkuat
-  Sumber: Detik
-  Tanggal: None
-  URL: https://news.detik.com/berita/d-8420422/transaksi-judol-terus-diungkap-payment-gateway-perlu-diperkuat
-  Snippet: 
-
-[004] Safari Ramadan, Kapolda Sumsel Gandeng Forkopimda Jaga Kamtibmas
-  Sumber: Detik
-  Tanggal: None
-  URL: https://news.detik.com/berita/d-8369514/safari-ramadan-kapolda-sumsel-gandeng-forkopimda-jaga-kamtibmas
-  Snippet: 
-
-[005] Ini 5 Dewan Pakar Hoegeng Awards 2026
-  Sumber: Detik
-  Tanggal: None
-  URL: https://news.detik.com/berita/d-8330459/ini-5-dewan-pakar-hoegeng-awards-2026
-  Snippet: 
-
-[006] Menjawab Keresahan, Menjaga Profesionalisme TNI-Polri
-  Sumber: Detik
-  Tanggal: None
+  Tanggal: 2025-03-15
   URL: https://news.detik.com/kolom/d-8001101/menjawab-keresahan-menjaga-profesionalisme-tni-polri
-  Snippet: 
+  Snippet: TNI dan Polri diminta menjaga profesionalisme di tengah konflik lembaga.
 
-[007] Kronologi Kasus Match Fixing PSS Sleman Berujung Minus 3 Poin-Denda Uang
+[003] Jampidsus Jawab soal Isu Mundur: Saya Masih Terima Perintah Tangani Perkara
   Sumber: Detik
-  Tanggal: None
-  URL: https://www.detik.com/jogja/sepakbola/d-7490323/kronologi-kasus-match-fixing-pss-sleman-berujung-minus-3-poin-denda-uang
-  Snippet: 
-
-[008] Polri Umumkan Vigit Waluyo Sebagai Tersangka Mafia Bola
-  Sumber: Detik
-  Tanggal: None
-  URL: https://www.detik.com/jatim/sepakbola/d-7088528/polri-umumkan-vigit-waluyo-sebagai-tersangka-mafia-bola
-  Snippet: 
-
-[009] Vigit Waluyo Ditetapkan Tersangka oleh Satgas Antimafia Bola
-  Sumber: Detik
-  Tanggal: None
-  URL: https://sport.detik.com/sepakbola/liga-indonesia/d-7088418/vigit-waluyo-ditetapkan-tersangka-oleh-satgas-antimafia-bola
-  Snippet: 
-
-[010] Pimpinan KPK Tersangka Bukan Kali Ini Saja, tapi Kini Ada yang Beda
-  Sumber: Detik
-  Tanggal: None
-  URL: https://news.detik.com/berita/d-7053180/pimpinan-kpk-tersangka-bukan-kali-ini-saja-tapi-kini-ada-yang-beda
-  Snippet: 
-
-[011] Timeline Kasus Razman: Berawal Ribut dengan Hotman, Kini Dieksekusi ke Lapas
-  Sumber: Detik
-  Tanggal: None
-  URL: https://news.detik.com/berita/d-8548177/timeline-kasus-razman-berawal-ribut-dengan-hotman-kini-dieksekusi-ke-lapas
-  Snippet: 
-
-[012] Jabar Hari Ini: Tiga Anak Disekap dan Nyaris Dibakar Ayahnya
-  Sumber: Detik
-  Tanggal: None
-  URL: https://www.detik.com/jabar/berita/d-8486516/jabar-hari-ini-tiga-anak-disekap-dan-nyaris-dibakar-ayahnya
-  Snippet: 
-
-[013] Citra KPK Terendah, Legislator Singgung Perseteruan dengan Dewas
-  Sumber: Detik
-  Tanggal: None
-  URL: https://news.detik.com/berita/d-7402587/citra-kpk-terendah-legislator-singgung-perseteruan-dengan-dewas
-  Snippet: 
-
-[014] Medina Zein Dijemput Paksa-Ditahan karena Kasus Ancaman Bom
-  Sumber: Detik
-  Tanggal: None
-  URL: https://www.detik.com/bali/berita/d-6167776/medina-zein-dijemput-paksa-ditahan-karena-kasus-ancaman-bom
-  Snippet: 
-
-[015] Perhimpunan Dokter Umum RI Surati Prabowo, Desak Perlindungan Nakes
-  Sumber: Detik
-  Tanggal: None
-  URL: https://health.detik.com/berita-detikhealth/d-8555214/perhimpunan-dokter-umum-ri-surati-prabowo-desak-perlindungan-nakes
-  Snippet: 
-
-[016] Pidato Lengkap Prabowo di Hari Bhayangkara Ke-80
-  Sumber: Detik
-  Tanggal: None
-  URL: https://news.detik.com/berita/d-8555059/pidato-lengkap-prabowo-di-hari-bhayangkara-ke-80
-  Snippet: 
-
-[017] Para Mantan Kapolri Hadir di Upacara Hari Bhayangkara ke-80
-  Sumber: Detik
-  Tanggal: None
-  URL: https://news.detik.com/berita/d-8554728/para-mantan-kapolri-hadir-di-upacara-hari-bhayangkara-ke-80
-  Snippet: 
-
-[018] ABG di Bandung Diperkosa, MenPPPA Bakal Temui Jaksa Agung-Kapolri
-  Sumber: Detik
-  Tanggal: None
-  URL: https://20.detik.com/detikflash/20211229-211229091/abg-di-bandung-diperkosa-menpppa-bakal-temui-jaksa-agung-kapolri
-  Snippet: 
-
-[019] Prabowo Jadi Inspektur Upacara Hari Bhayangkara ke-80 di Satlat Brimob Cikeas
-  Sumber: Detik
-  Tanggal: None
-  URL: https://news.detik.com/berita/d-8554678/prabowo-jadi-inspektur-upacara-hari-bhayangkara-ke-80-di-satlat-brimob-cikeas
-  Snippet: 
-
-[020] Jampidsus Jawab soal Isu Mundur: Saya Masih Terima Perintah Tangani Perkara
-  Sumber: Detik
-  Tanggal: None
+  Tanggal: 2025-08-25
   URL: https://news.detik.com/berita/d-8568193/jampidsus-jawab-soal-isu-mundur-saya-masih-terima-perintah-tangani-perkara
-  Snippet: 
+  Snippet: Febrie Ardiansyah membantah isu mundur dari jabatan Jampidsus.
 
-[021] Sosok Lalu Iwan, Tersangka Korupsi MBG yang Pernah Bertugas di Polda NTB
+[004] Kapolri Dorong Sinergi Polri-Kejagung Terapkan KUHP-KUHAP Baru agar Penanganan Perkara Efektif
   Sumber: Detik
-  Tanggal: None
-  URL: https://www.detik.com/bali/hukum-dan-kriminal/d-8561092/sosok-lalu-iwan-tersangka-korupsi-mbg-yang-pernah-bertugas-di-polda-ntb
-  Snippet: 
-
-[022] Polisi Bidik Tersangka Jual Beli Jabatan di Pemkab Bogor
-  Sumber: Detik
-  Tanggal: None
-  URL: https://www.detik.com/jabar/hukum-dan-kriminal/d-8549674/polisi-bidik-tersangka-jual-beli-jabatan-di-pemkab-bogor
-  Snippet: 
-
-[023] Gubernur Andi Sudirman Ajak Kepala BPKP Sulsel Kawal Asta Cita Presiden
-  Sumber: Detik
-  Tanggal: None
-  URL: https://www.detik.com/sulsel/sulsel-ewako/d-8540610/gubernur-andi-sudirman-ajak-kepala-bpkp-sulsel-kawal-asta-cita-presiden
-  Snippet: 
-
-[024] Profil Dirgakkum Korlantas Kombes I Made Agus Prasatya yang Baru Dilantik
-  Sumber: Detik
-  Tanggal: None
-  URL: https://news.detik.com/berita/d-8527934/profil-dirgakkum-korlantas-kombes-i-made-agus-prasatya-yang-baru-dilantik
-  Snippet: 
-
-[025] Risiko Perubahan Paradigma dalam UU TNI
-  Sumber: Detik
-  Tanggal: None
-  URL: https://news.detik.com/kolom/d-7834607/risiko-perubahan-paradigma-dalam-uu-tni
-  Snippet: 
-
-[026] Al Haris Warning ASN di Jambi Tetap Netral Menuju Pemilu 2024
-  Sumber: Detik
-  Tanggal: None
-  URL: https://www.detik.com/sumbagsel/berita/d-7003611/al-haris-warning-asn-di-jambi-tetap-netral-menuju-pemilu-2024
-  Snippet: 
-
-[027] Gubernur Kalteng Ingatkan Pentingnya Penanganan Pasca Banjir Lamandau
-  Sumber: Detik
-  Tanggal: None
-  URL: https://www.detik.com/sulsel/berita/d-6380868/gubernur-kalteng-ingatkan-pentingnya-penanganan-pasca-banjir-lamandau
-  Snippet: 
-
-[028] Ingatkan Tantangan Global, Ini 5 Pesan Penting Wapres Ma'ruf untuk Polri
-  Sumber: Detik
-  Tanggal: None
-  URL: https://news.detik.com/berita/d-6303745/ingatkan-tantangan-global-ini-5-pesan-penting-wapres-maruf-untuk-polri
-  Snippet: 
-
-[029] Di Rakernis Reskrim, Kapolri Minta Penyidik Adaptif Hadapi Modus-modus Baru
-  Sumber: Detik
-  Tanggal: None
-  URL: https://news.detik.com/berita/d-8478616/di-rakernis-reskrim-kapolri-minta-penyidik-adaptif-hadapi-modus-modus-baru
-  Snippet: 
-
-[030] Reaksi Penegak Hukum Setelah KUHP dan KUHAP Baru Berlaku Secara Sah
-  Sumber: Detik
-  Tanggal: None
-  URL: https://www.detik.com/jatim/hukum-dan-kriminal/d-8289763/reaksi-penegak-hukum-setelah-kuhp-dan-kuhap-baru-berlaku-secara-sah
-  Snippet: 
-
-[031] Langkah Penegak Hukum Usai KUHP dan KUHAP Baru Resmi Berlaku
-  Sumber: Detik
-  Tanggal: None
-  URL: https://news.detik.com/berita/d-8289703/langkah-penegak-hukum-usai-kuhp-dan-kuhap-baru-resmi-berlaku
-  Snippet: 
-
-[032] Kapolri Dorong Sinergi Polri-Kejagung Terapkan KUHP-KUHAP Baru agar Penanganan Perkara Efektif
-  Sumber: Detik
-  Tanggal: None
+  Tanggal: 2025-05-10
   URL: https://news.detik.com/berita/d-8263408/kapolri-dorong-sinergi-polri-kejagung-terapkan-kuhp-kuhap-baru-agar-penanganan-perkara-efektif
-  Snippet: 
+  Snippet: Listyo Sigit mendorong sinergi dengan Kejaksaan Agung dalam penerapan KUHP baru.
 
-[033] Kapolri-Jaksa Agung Teken MoU Sinergitas Penerapan KUHP Baru
+[005] Kapolri-Jaksa Agung Teken MoU Sinergitas Penerapan KUHP Baru
   Sumber: Detik
-  Tanggal: None
+  Tanggal: 2025-05-08
   URL: https://news.detik.com/berita/d-8262359/kapolri-jaksa-agung-teken-mou-sinergitas-penerapan-kuhp-baru
-  Snippet: 
+  Snippet: Listyo Sigit dan ST Burhanuddin menandatangani nota kesepahaman sinergitas.
 
-[034] Duduk Perkara Razman Arif Nasution Dijebloskan ke Lapas Cipinang
+[006] Kejagung Imbau Publik Tak Bikin Opini Kaitkan Kasus Cuma dari Medsos
   Sumber: Detik
-  Tanggal: None
-  URL: https://news.detik.com/berita/d-8549281/duduk-perkara-razman-arif-nasution-dijebloskan-ke-lapas-cipinang
-  Snippet: 
-
-[035] Ini 3 Besar Kandidat Polisi Inovatif Hoegeng Awards 2026
-  Sumber: Detik
-  Tanggal: None
-  URL: https://news.detik.com/berita/d-8480266/ini-3-besar-kandidat-polisi-inovatif-hoegeng-awards-2026
-  Snippet: 
-
-[036] Jabar Hari Ini: Vonis 2,5 Tahun Penjara untuk Resbob
-  Sumber: Detik
-  Tanggal: None
-  URL: https://www.detik.com/jabar/berita/d-8467332/jabar-hari-ini-vonis-2-5-tahun-penjara-untuk-resbob
-  Snippet: 
-
-[037] Kejagung Imbau Publik Tak Bikin Opini Kaitkan Kasus Cuma dari Medsos
-  Sumber: Detik
-  Tanggal: None
+  Tanggal: 2026-07-09
   URL: https://news.detik.com/berita/d-8567247/kejagung-imbau-publik-tak-bikin-opini-kaitkan-kasus-cuma-dari-medsos
-  Snippet: 
+  Snippet: Kejaksaan Agung meminta publik tidak membuat opini berdasarkan media sosial.
 
-[038] Kejagung Hormati Proses Penyidikan Polri Terkait 3 Perkara Korupsi
+[007] Kejagung Hormati Proses Penyidikan Polri Terkait 3 Perkara Korupsi
   Sumber: Detik
-  Tanggal: None
+  Tanggal: 2026-07-09
   URL: https://news.detik.com/berita/d-8567244/kejagung-hormati-proses-penyidikan-polri-terkait-3-perkara-korupsi
-  Snippet: 
+  Snippet: Kejaksaan Agung menghormati penyidikan Polri atas tiga perkara korupsi besar.
 
-[039] Komisi III DPR Minta TNI-Polri Solid dalam Pemberantasan Korupsi
+[008] Komisi III DPR Minta TNI-Polri Solid dalam Pemberantasan Korupsi
   Sumber: Detik
-  Tanggal: None
+  Tanggal: 2026-07-08
   URL: https://news.detik.com/berita/d-8566899/komisi-iii-dpr-minta-tni-polri-solid-dalam-pemberantasan-korupsi
-  Snippet: 
+  Snippet: Komisi III DPR meminta TNI dan Polri solid memberantas korupsi.
 
-[040] Soal Pengamanan di Rumah Jampidsus, Ini Kata TNI
+[009] Soal Pengamanan di Rumah Jampidsus, Ini Kata TNI
   Sumber: Detik
-  Tanggal: None
+  Tanggal: 2026-07-07
   URL: https://www.detik.com/sumut/berita/d-8566392/soal-pengamanan-di-rumah-jampidsus-ini-kata-tni
-  Snippet: 
+  Snippet: TNI angkat bicara soal pengamanan di rumah Jampidsus Febrie Ardiansyah.
 
-[041] 1.836 Pasangan di Kalteng Urus Cerai dalam 6 Bulan, Ini Pemicunya
+[010] Guru Besar UINSA Surabaya Beberkan Catatan Kritis RUU TNI, Polri, Kejaksaan
   Sumber: Detik
-  Tanggal: None
-  URL: https://www.detik.com/kalimantan/berita/d-8567164/1-836-pasangan-di-kalteng-urus-cerai-dalam-6-bulan-ini-pemicunya
-  Snippet: 
-
-[042] BP MPR Gelar FGD Pertahanan, Pakar UGM Soroti Ancaman Siber dan Antariksa
-  Sumber: Detik
-  Tanggal: None
-  URL: https://news.detik.com/berita/d-8563204/bp-mpr-gelar-fgd-pertahanan-pakar-ugm-soroti-ancaman-siber-dan-antariksa
-  Snippet: 
-
-[043] Tanggal 5 Juli Memperingati Apa? Ini Daftar Hari Pentingnya
-  Sumber: Detik
-  Tanggal: None
-  URL: https://www.detik.com/sulsel/berita/d-8560134/tanggal-5-juli-memperingati-apa-ini-daftar-hari-pentingnya
-  Snippet: 
-
-[044] Dirjen Imigrasi Gandeng KPK Perkuat Pengawasan, Ingatkan Pentingnya Integritas
-  Sumber: Detik
-  Tanggal: None
-  URL: https://news.detik.com/berita/d-8557836/dirjen-imigrasi-gandeng-kpk-perkuat-pengawasan-ingatkan-pentingnya-integritas
-  Snippet: 
-
-[045] Guru Besar UINSA Surabaya Beberkan Catatan Kritis RUU TNI, Polri, Kejaksaan
-  Sumber: Detik
-  Tanggal: None
+  Tanggal: 2025-02-10
   URL: https://news.detik.com/berita/d-7825038/guru-besar-uinsa-surabaya-beberkan-catatan-kritis-ruu-tni-polri-kejaksaan
-  Snippet: 
+  Snippet: Guru besar UINSA menyoroti RUU yang mengatur TNI, Polri, dan Kejaksaan.
 
-[046] Sampai Kapan Kita Butuh KPK?
-  Sumber: Detik
-  Tanggal: None
-  URL: https://news.detik.com/kolom/d-1504778/sampai-kapan-kita-butuh-kpk
-  Snippet: 
-
-[047] Kepercayaan ke Polri 82,4%, Ketua MKD DPR: Kinerjanya Diapresiasi Masyarakat
-  Sumber: Detik
-  Tanggal: None
-  URL: https://news.detik.com/berita/d-8551909/kepercayaan-ke-polri-82-4-ketua-mkd-dpr-kinerjanya-diapresiasi-masyarakat
-  Snippet: 
-
-[048] Kepercayaan ke Polri 82,4%, Rajiv: Cerminan Pengakuan Publik atas Kinerja
-  Sumber: Detik
-  Tanggal: None
-  URL: https://news.detik.com/berita/d-8551831/kepercayaan-ke-polri-82-4-rajiv-cerminan-pengakuan-publik-atas-kinerja
-  Snippet: 
-
-[049] 3 Tersangka Kasus Penggelapan Dana Syariah Indonesia Segera Disidang
-  Sumber: Detik
-  Tanggal: None
-  URL: https://news.detik.com/berita/d-8528874/3-tersangka-kasus-penggelapan-dana-syariah-indonesia-segera-disidang
-  Snippet: 
-
-[050] DIM RUU Polri: Usia Pensiun Pati Paling Tinggi 60, Bintang 4 Bisa Diperpanjang 1 Tahun
-  Sumber: Detik
-  Tanggal: None
-  URL: https://news.detik.com/berita/d-8523329/dim-ruu-polri-usia-pensiun-pati-paling-tinggi-60-bintang-4-bisa-diperpanjang-1-tahun
-  Snippet: 
-
-[051] Kejaksaan Agung: Hubungan dengan Polri Baik-baik Saja
+[011] Kejaksaan Agung: Hubungan dengan Polri Baik-baik Saja
   Sumber: Tempo
   Tanggal: 2025-08-23
   URL: https://www.tempo.co/hukum/konflik-polisi-jaksa-berebut-perkara-2062243
-  Snippet: Kejaksaan Agung mengklaim tak mencampuri penangkapan Ferry Hongkiriwang. Konflik polisi-jaksa memanas. Personel TNI berjaga di rumah Jampidsus Febrie Adriansyah.
+  Snippet: Kejaksaan Agung mengklaim tak mencampuri penangkapan Ferry Hongkiriwang. Konflik polisi-jaksa memanas. Personel TNI berjaga di rumah Jampidsus Febrie Ardiansyah.
 
-[052] Konflik Polri vs Kejaksaan dan Bayang-Bayang Intervensi Militer
+[012] Konflik Polri vs Kejaksaan dan Bayang-Bayang Intervensi Militer
   Sumber: Infonews
   Tanggal: 2026-07-09
   URL: https://infonews.id/baca-9959-konflik-polri-vs-kejaksaan
-  Snippet: Polri geledah kafe Ferry Hongkiriwang linked to Jampidsus Febrie Adriansyah. TNI deployed to protect Febrie house. Densus 88 officer kidnapped by Bais TNI. Skema pemerasan korupsi timah, Jiwasraya, la
+  Snippet: Polri geledah kafe Ferry Hongkiriwang terkait Jampidsus Febrie. TNI dikerahkan lindungi rumah Febrie. Personel Densus 88 diculik BAIS TNI.
 
-[053] Peristiwa Jampidsus Kejagung: Membaca Ketegangan Polri, TNI, dan Kejaksaan
+[013] Peristiwa Jampidsus Kejagung: Membaca Ketegangan Polri, TNI, dan Kejaksaan
   Sumber: Sindikatpost
   Tanggal: 2026-07-09
   URL: https://www.sindikatpost.com/opini/peristiwa-jampidsus-kejagung
-  Snippet: Bukan sekadar riak kecil dalam dinamika birokrasi. Ini adalah sinyal kuat adanya pergeseran tektonik dalam relasi kuasa antar-lembaga penegak hukum.
+  Snippet: Bukan sekadar riak kecil dalam dinamika birokrasi. Ini sinyal kuat adanya pergeseran tektonik relasi kuasa antar-lembaga penegak hukum.
 
-[054] Mengapa Prabowo Tak Kunjung Mengganti Kapolri dan Jaksa Agung
+[014] Mengapa Prabowo Tak Kunjung Mengganti Kapolri dan Jaksa Agung
   Sumber: Tempo
   Tanggal: 2025-10-30
   URL: https://www.tempo.co/hukum/pergantian-kapolri-dan-jaksa-agung-2080994
   Snippet: Prabowo Subianto tak mengganti Kapolri dan Jaksa Agung karena dianggap berjasa. Keduanya bakal diganti pada Januari 2026.
 
-[055] Soal Perpres Perlindungan Jaksa, Komjak Bantah Ada Konflik Kejaksaan dengan Polri
+[015] Soal Perpres Perlindungan Jaksa, Komjak Bantah Ada Konflik Kejaksaan dengan Polri
   Sumber: Kompas
   Tanggal: 2025-06-06
   URL: https://nasional.kompas.com/read/2025/06/06/soal-perpres-perlindungan-jaksa
-  Snippet: Ketua Komjak RI Pujiyono Suwadi menanggapi isu ketidak harmonisan hubungan Kejaksaan dan Polri, seiring terbitnya Perpres 66/2025.
+  Snippet: Ketua Komjak RI Pujiyono Suwadi menanggapi isu ketidak harmonisan hubungan Kejaksaan dan Polri seiring terbitnya Perpres 66/2025.
 
-[056] Prabowo Panggil Panglima TNI, Kapolri, hingga Jaksa Agung ke Istana
+[016] Prabowo Panggil Panglima TNI, Kapolri, hingga Jaksa Agung ke Istana
   Sumber: CNN Indonesia
   Tanggal: 2025-08-27
   URL: https://www.cnnindonesia.com/nasional/20250827134614-20-1266987
-  Snippet: Presiden RI Prabowo Subianto memanggil Panglima TNI, Kapolri, hingga Jaksa Agung ke Istana Kepresidenan Jakarta.
+  Snippet: Presiden Prabowo Subianto memanggil Panglima TNI, Kapolri, hingga Jaksa Agung ke Istana Kepresidenan Jakarta.
 
-[057] Presiden Prabowo Mendadak Panggil Kapolri-Jaksa Agung ke Istana
+[017] Presiden Prabowo Mendadak Panggil Kapolri-Jaksa Agung ke Istana
   Sumber: Sindonews
   Tanggal: 2025-07-31
   URL: https://nasional.sindonews.com/read/1600129
   Snippet: Presiden Prabowo Subianto mendadak memanggil Kapolri Jenderal Listyo Sigit Prabowo hingga Jaksa Agung ST Burhanuddin di Istana Negara.
 
-[058] Penyusunan Kabinet, Penunjukan Jaksa Agung Diingatkan Tak Berafiliasi Parpol
+[018] Penyusunan Kabinet, Penunjukan Jaksa Agung Diingatkan Tak Berafiliasi Parpol
   Sumber: MetroTV
   Tanggal: 2024-10-15
   URL: https://www.metrotvnews.com/read/penyusunan-kabinet-penunjukan-jaksa-agung
-  Snippet: Prabowo diminta tak memilih Jaksa Agung yang berafiliasi dengan partai politik. Putusan MK mensyaratkan Jaksa Agung bukan pengurus parpol.
+  Snippet: Prabowo diminta tidak memilih Jaksa Agung yang berafiliasi dengan partai politik.
 
-[059] Jaksa Agung dan Kapolri Satukan Persepsi Perkuat Kerja Sama Hadapi KUHP Baru
+[019] Jaksa Agung dan Kapolri Satukan Persepsi Perkuat Kerja Sama Hadapi KUHP Baru
   Sumber: Badiklat Kejaksaan
   Tanggal: 2025-12-16
   URL: https://badiklat.kejaksaan.go.id/berita/s/jaksa-agung-dan-kapolri-satukan-persepsi
   Snippet: Jaksa Agung ST Burhanuddin dan Kapolri Jenderal Listyo Sigit Prabowo menyamakan persepsi menghadapi KUHP baru. Pertemuan sinergitas di Mabes Polri.
 
-[060] Presiden Prabowo Tunjuk Sanitiar Burhanuddin Sebagai Jaksa Agung 2024-2029
+[020] Presiden Prabowo Tunjuk Sanitiar Burhanuddin Sebagai Jaksa Agung 2024-2029
   Sumber: Badiklat Kejaksaan
   Tanggal: 2024-10-21
   URL: https://badiklat.kejaksaan.go.id/berita/s/presiden-prabowo-tunjuk-jaksa-agung
-  Snippet: Presiden Prabowo Subianto melantik Sanitiar Burhanuddin sebagai Jaksa Agung berdasarkan Keputusan Presiden Nomor 135/P Tahun 2024.
+  Snippet: Presiden Prabowo Subianto melantik Sanitiar Burhanuddin sebagai Jaksa Agung berdasarkan Keppres 135/P Tahun 2024.
 
-[061] Kejaksaan Agung Terbitkan Surat Rahasia Meningkatkan Kewaspadaan
+[021] Kejaksaan Agung Terbitkan Surat Rahasia Meningkatkan Kewaspadaan
   Sumber: Infonews
   Tanggal: 2026-07-08
   URL: https://infonews.id/baca-9959
-  Snippet: Kejaksaan Agung menerbitkan surat rahasia memerintahkan seluruh jajaran Kejati dan Kejari meningkatkan kewaspadaan terhadap Ancaman Gangguan Hambatan Tantangan.
+  Snippet: Kejaksaan Agung menerbitkan surat rahasia R-696 memerintahkan seluruh jajaran meningkatkan kewaspadaan terhadap AGHT.
 
-[062] Prabowo Panggil Kapolri-Jaksa Agung ke Istana Perintahkan Tindak Tegas Pengoplos Beras
+[022] Prabowo Panggil Kapolri-Jaksa Agung ke Istana Perintahkan Tindak Tegas Pengoplos Beras
   Sumber: iNews
   Tanggal: 2025-07-31
   URL: https://www.inews.id/news/nasional/prabowo-panggil-kapolri-jaksa-agung
-  Snippet: Presiden Prabowo Subianto rapat terbatas bersama Kapolri Jenderal Listyo Sigit Prabowo hingga Jaksa Agung ST Burhanuddin di Istana Negara.
+  Snippet: Presiden Prabowo rapat terbatas bersama Kapolri dan Jaksa Agung di Istana Negara.
+
+[023] Pidato Lengkap Prabowo di Hari Bhayangkara Ke-80
+  Sumber: Detik
+  Tanggal: 2025-07-01
+  URL: https://news.detik.com/berita/d-8555059/pidato-lengkap-prabowo-di-hari-bhayangkara-ke-80
+  Snippet: Presiden Prabowo berpidato di Hari Bhayangkara ke-80 di Satlat Brimob Cikeas.
+
+[024] Prabowo Jadi Inspektur Upacara Hari Bhayangkara ke-80 di Satlat Brimob Cikeas
+  Sumber: Detik
+  Tanggal: 2025-07-01
+  URL: https://news.detik.com/berita/d-8554678/prabowo-jadi-inspektur-upacara-hari-bhayangkara-ke-80-di-satlat-brimob-cikeas
+  Snippet: Presiden Prabowo menjadi inspektur upacara Hari Bhayangkara di Satlat Brimob.
+
+[025] Risiko Perubahan Paradigma dalam UU TNI
+  Sumber: Detik
+  Tanggal: 2025-02-20
+  URL: https://news.detik.com/kolom/d-7834607/risiko-perubahan-paradigma-dalam-uu-tni
+  Snippet: Analisis mengenai perubahan paradigma dalam UU TNI yang baru.
+
+[026] Reaksi Penegak Hukum Setelah KUHP dan KUHAP Baru Berlaku Secara Sah
+  Sumber: Detik
+  Tanggal: 2025-05-12
+  URL: https://www.detik.com/jatim/hukum-dan-kriminal/d-8289763/reaksi-penegak-hukum-setelah-kuhp-dan-kuhap-baru-berlaku-secara-sah
+  Snippet: Para penegak hukum bereaksi terhadap berlakunya KUHP dan KUHAP baru.
+
+[027] Langkah Penegak Hukum Usai KUHP dan KUHAP Baru Resmi Berlaku
+  Sumber: Detik
+  Tanggal: 2025-05-12
+  URL: https://news.detik.com/berita/d-8289703/langkah-penegak-hukum-usai-kuhp-dan-kuhap-baru-resmi-berlaku
+  Snippet: Langkah-langkah penegak hukum setelah KUHP dan KUHAP baru berlaku.
+
+[028] Di Rakernis Reskrim, Kapolri Minta Penyidik Adaptif Hadapi Modus-modus Baru
+  Sumber: Detik
+  Tanggal: 2025-06-15
+  URL: https://news.detik.com/berita/d-8478616/di-rakernis-reskrim-kapolri-minta-penyidik-adaptif-hadapi-modus-modus-baru
+  Snippet: Kapolri meminta penyidik adaptif dalam menghadapi modus kejahatan baru.
+
+[029] Korupsi Timah Rp300 Triliun: Kejagung Tetapkan 22 Tersangka
+  Sumber: CNBC Indonesia
+  Tanggal: 2024-03-15
+  URL: https://www.cnbcindonesia.com/news/korupsi-timah-300-triliun-kejagung
+  Snippet: Kejaksaan Agung melalui Jampidsus Febrie Ardiansyah mengungkap korupsi tata niaga timah di PT Timah Tbk 2015-2022 dengan kerugian negara Rp300 triliun. Sebanyak 22 tersangka ditetapkan berdasarkan aud
+
+[030] Korupsi Timah Rp300 Triliun: Jampidsus Febrie Ardiansyah Pimpin Pengusutan
+  Sumber: Viva
+  Tanggal: 2024-03-20
+  URL: https://www.viva.co.id/berita/korupsi-timah-300t
+  Snippet: Jampidsus Febrie Ardiansyah memimpin pengusutan kasus korupsi timah terbesar dalam sejarah Indonesia dengan kerugian negara mencapai Rp300 triliun.
+
+[031] Skandal Timah Rp300 Triliun: BPKP Audit, 22 Tersangka dari Berbagai Pihak
+  Sumber: Tempo
+  Tanggal: 2024-04-01
+  URL: https://www.tempo.co/hukum/korupsi-timah-300-triliun
+  Snippet: BPKP mengaudit kerugian negara korupsi timah yang mencapai Rp300 triliun. Kejagung menetapkan 22 tersangka dari PT Timah Tbk dan pihak terkait.
+
+[032] Konvoi Brimob di Depan Gedung Kejagung: Show of Force Polri?
+  Sumber: Liputan6
+  Tanggal: 2024-05-15
+  URL: https://www.liputan6.com/news/konvoi-brimob-kejagung
+  Snippet: Ratusan personel Brimob berkonvoi di depan Gedung Kejaksaan Agung pada Mei 2024. Aksi ini dinilai sebagai show of force Polri di tengah ketegangan dengan Kejaksaan.
+
+[033] Brimob Pamer Kekuatan di Depan Kejaksaan Agung, Ini Reaksi Kejagung
+  Sumber: Inilah
+  Tanggal: 2024-05-16
+  URL: https://www.inilah.com/brimob-kejagung-2024
+  Snippet: Konvoi Brimob di depan Gedung Kejagung menuai reaksi. Kejaksaan meminta Polri menjaga profesionalisme.
+
+[034] KompasTV: Konvoi Brimob di Kejagung, Sinyal Ketegangan dengan Polri?
+  Sumber: KompasTV
+  Tanggal: 2024-05-17
+  URL: https://www.kompastv.com/brimob-kejagung
+  Snippet: KompasTV melaporkan konvoi Brimob di depan Gedung Kejaksaan Agung sebagai sinyal ketegangan hubungan Polri dan Kejaksaan.
+
+[035] Perpres 122/2024: Kortastipidkor Polri Dibentuk, Dipimpin Irjen Totok Suharyanto
+  Sumber: CNN Indonesia
+  Tanggal: 2024-10-15
+  URL: https://www.cnnindonesia.com/nasional/perpres-122-2024-kortastipidkor
+  Snippet: Presiden Jokowi menandatangani Perpres 122/2024 pada 15 Oktober 2024 tentang Kortastipidkor Polri. Dipimpin Irjen Pol Totok Suharyanto dengan 3 direktorat.
+
+[036] Kortastipidkor Polri: Tugas dan Fungsi 3 Direktorat di Bawah Irjen Totok Suharyanto
+  Sumber: Hukumonline
+  Tanggal: 2024-10-16
+  URL: https://www.hukumonline.com/berita/kortastipidkor-polri
+  Snippet: Perpres 122/2024 merinci tugas dan fungsi Kortastipidkor Polri dengan 3 direktorat yang dipimpin Irjen Pol Totok Suharyanto.
+
+[037] Mengenal Kortastipidkor: Satuan Anti Korupsi Polri Bentukan Jokowi
+  Sumber: Liputan6
+  Tanggal: 2024-10-18
+  URL: https://www.liputan6.com/news/kortastipidkor-polri
+  Snippet: Kortastipidkor Polri dibentuk melalui Perpres 122/2024 sebagai satuan anti korupsi Polri yang dipimpin Irjen Totok Suharyanto.
+
+[038] Ferry Yanto Hongkiriwang alias Ferry Boboho: Mantan Salesman Kipas Angin Jadi Makelar Kasus
+  Sumber: Suara
+  Tanggal: 2025-07-26
+  URL: https://www.suara.com/news/ferry-boboho-makelar-kasus
+  Snippet: Ferry Yanto Hongkiriwang atau Ferry Boboho, pengusaha asal Luwuk Sulawesi Tengah, pemilik Gontran Cherrier dan de'Clan di Cipete. Ditangkap Polda Metro Jaya 25 Juli 2025 atas dugaan makelar kasus.
+
+[039] Ferry Boboho: Dari Salesman Kipas Angin ke Pengusaha Kafe, Tersangka Makelar Kasus
+  Sumber: IndonesiaWatch
+  Tanggal: 2025-07-27
+  URL: https://www.indonesiawatch.id/ferry-boboho
+  Snippet: Profil Ferry Yanto Hongkiriwang alias Ferry Boboho yang ditangkap Polda Metro Jaya. Mantan salesman kipas angin yang kini jadi pengusaha kafe dan diduga makelar kasus.
+
+[040] Ferry Boboho Ditangkap: Pemilik de'Clan Cipete Jadi Makelar Kasus Kejagung?
+  Sumber: RMOL
+  Tanggal: 2025-07-28
+  URL: https://www.rmol.id/ferry-boboho-ditangkap
+  Snippet: Ferry Yanto Hongkiriwang, pemilik kafe de'Clan di Cipete, ditangkap Polda Metro Jaya. Diduga menjadi makelar kasus yang menghubungkan koruptor dengan Kejaksaan.
+
+[041] Penggeledahan 12 Lokasi oleh Kortastipidkor dan Polda Metro: Brankas Rp60 Miliar di de'Clan
+  Sumber: CNN Indonesia
+  Tanggal: 2026-07-08
+  URL: https://www.cnnindonesia.com/nasional/penggeledahan-12-lokasi-kortastipidkor
+  Snippet: Kortastipidkor Polri bersama Polda Metro Jaya menggeledah 12 lokasi pada 8 Juli 2026. Temukan brankas rahasia di kafe de'Clan Cipete berisi Rp60 miliar uang asing.
+
+[042] Penggeledahan 12 Lokasi: Brankas Tersembunyi di Sentul Berisi 74 Kg Emas dan Rp476 Miliar
+  Sumber: Kompas
+  Tanggal: 2026-07-08
+  URL: https://nasional.kompas.com/read/penggeledahan-12-lokasi-sentul
+  Snippet: Polri menemukan brankas tersembunyi di balik dinding rumah mewah Sentul berisi 74 kg emas batangan, uang Rp476 miliar, dan foto keluarga diduga Jampidsus Febrie Ardiansyah.
+
+[043] Tiga Kasus Korupsi dalam Penggeledahan 12 Lokasi: Batu Bara PLN, Asabri, Krakatau Steel
+  Sumber: Tempo
+  Tanggal: 2026-07-09
+  URL: https://www.tempo.co/hukum/tiga-kasus-penggeledahan-12-lokasi
+  Snippet: Kortastipidkor Polri menggeledah 12 lokasi terkait 3 kasus korupsi besar: korupsi batu bara PLN/blackout, Asabri/Jiwasraya, dan Krakatau Steel.
+
+[044] TNI Jaga Rumah Febrie dan Kantor Kejagung: 2 Unit Panser Anoa Dikerahkan
+  Sumber: Suara
+  Tanggal: 2025-07-30
+  URL: https://www.suara.com/news/tni-panser-kejagung
+  Snippet: TNI mengerahkan 2 unit panser Anoa untuk menjaga rumah Jampidsus Febrie Ardiansyah dan Kantor Kejaksaan Agung usai penggeledahan gagal Juli 2025.
+
+[045] TNI Tempatkan Panser Anoa di Depan Kejagung dan Rumah Jampidsus
+  Sumber: AFU
+  Tanggal: 2025-07-31
+  URL: https://www.afu.id/tni-panser-kejagung
+  Snippet: Pasca penggeledahan Polri yang gagal, TNI memperketat pengamanan dengan menempatkan 2 unit panser Anoa di depan Kejaksaan Agung dan rumah Febrie.
+
+[046] Perpres 66/2025 tentang Perlindungan Jaksa: Komjak Bantah Ada Konflik dengan Polri
+  Sumber: Liputan6
+  Tanggal: 2025-06-05
+  URL: https://www.liputan6.com/news/perpres-66-2025-perlindungan-jaksa
+  Snippet: Perpres 66/2025 diterbitkan untuk perlindungan jaksa. Komjak membantah ada konflik Kejaksaan dengan Polri di balik penerbitan peraturan ini.
+
+[047] Pertemuan Sinergitas Jaksa Agung dan Kapolri di Mabes Polri Desember 2025
+  Sumber: Detik
+  Tanggal: 2025-12-16
+  URL: https://news.detik.com/berita/sinergitas-jaksa-agung-kapolri-des-2025
+  Snippet: Jaksa Agung ST Burhanuddin dan Kapolri Listyo Sigit Prabowo menggelar pertemuan sinergitas di Mabes Polri untuk meredakan ketegangan antar lembaga.
+
+[048] Surat Rahasia R-696 Kejagung: Waspada terhadap AGHT
+  Sumber: RMOL
+  Tanggal: 2026-07-07
+  URL: https://www.rmol.id/surat-rahasia-r-696-kejagung
+  Snippet: Kejaksaan Agung menerbitkan surat rahasia bernomor R-696 pada Juli 2026 yang memerintahkan seluruh jajaran waspada terhadap Ancaman, Gangguan, Hambatan, dan Tantangan (AGHT).
+
+[049] BAIS TNI Dituduh Culik Personel Densus 88 yang Sedang Tugas
+  Sumber: Tempo
+  Tanggal: 2025-07-29
+  URL: https://www.tempo.co/hukum/bais-tni-culik-densus-88
+  Snippet: Personel Densus 88 dilaporkan diculik oleh BAIS TNI saat sedang membuntuti Ferry Boboho. Polri terbitkan SP2HP untuk kasus penculikan ini.
+
+[050] Briptu Faisal Anggota Densus 88 Dibawa Paksa oleh BAIS TNI
+  Sumber: CNN Indonesia
+  Tanggal: 2025-07-29
+  URL: https://www.cnnindonesia.com/nasional/briptu-faisal-densus-88-bais
+  Snippet: Briptu Faisal, anggota Densus 88 yang sedang membuntuti Ferry Boboho, dibawa paksa oleh personel BAIS TNI. Polri mengeluarkan SP2HP.
+
+[051] Prabowo Panggil Panglima TNI, Kapolri, Jaksa Agung Redakan Konflik
+  Sumber: Kompas
+  Tanggal: 2025-08-27
+  URL: https://nasional.kompas.com/read/prabowo-panggil-panglima-tni-kapolri-jaksa-agung
+  Snippet: Presiden Prabowo memanggil ketiga pimpinan lembaga ke Istana untuk meredakan konflik yang semakin memanas antara Polri, Kejaksaan, dan TNI.
+
+[052] Ferry Boboho: Pengakuan sebagai Makelar Kasus yang Hubungkan Koruptor dengan Kejaksaan
+  Sumber: Seruji
+  Tanggal: 2025-08-01
+  URL: https://www.seruji.id/ferry-boboho-pengakuan
+  Snippet: Ferry Yanto Hongkiriwang mengaku menjadi makelar kasus yang menghubungkan pengusaha koruptor dengan oknum Kejaksaan. Kafe de'Clan Cipete jadi tempat transaksi.
+
+[053] Temuan Foto Keluarga Jampidsus di Brankas Sentul, Polri Dalami Keterkaitan
+  Sumber: Beritasatu
+  Tanggal: 2026-07-10
+  URL: https://www.beritasatu.com/news/foto-jampidsus-brankas-sentul
+  Snippet: Polri mendalami temuan foto keluarga yang diduga Jampidsus Febrie Ardiansyah di brankas rumah mewah Sentul yang berisi emas 74 kg dan uang Rp476 miliar.
+
+[054] Jokowi Teken Perpres 122/2024: Kortastipidkor Polri Resmi Dibentuk
+  Sumber: Wikipedia
+  Tanggal: 2024-10-16
+  URL: https://id.wikipedia.org/wiki/Kortastipidkor
+  Snippet: Presiden Jokowi secara resmi menandatangani Perpres 122/2024 tentang pembentukan Kortastipidkor Polri pada 15 Oktober 2024.
+
+[055] Makelar Kasus di Lingkungan Kejaksaan
+  Sumber: WordPress
+  Tanggal: 2025-08-10
+  URL: https://ferryyantohongkiriwang.wordpress.com/makelar-kasus-lingkungan-kejaksaan
+  Snippet: Blog ekspos mendalam tentang Ferry Yanto Hongkiriwang sebagai makelar kasus (markus) di lingkungan Kejaksaan. Membongkar latar belakang Ferry dari salesman kipas angin hingga pengusaha kafe yang didug
+
+[056] Ferry Boboho Pintu Masuk Membongkar Jual Beli Hukum di Tubuh Kejagung
+  Sumber: MonitorIndonesia
+  Tanggal: 2025-08-15
+  URL: https://monitorindonesia.com/ferry-boboho-pintu-masuk-kejagung
+  Snippet: Sri Radjasa MBA (Pemerhati Intelijen) menulis opini mendalam tentang bagaimana Ferry Boboho menjadi pintu masuk untuk membongkar praktik jual beli hukum di tubuh Kejaksaan Agung. Analisis detail tenta
+
+[057] Ferry Boboho Diduga Pelaku Penculikan, Tidak Ditahan Bukti Aparat Hukum Tak Berdaya
+  Sumber: IndonesiaWatch
+  Tanggal: 2025-08-20
+  URL: https://indonesiawatch.id/ferry-boboho-penculikan-tak-ditahan
+  Snippet: IndonesiaWatch mengulas dugaan keterlibatan Ferry Boboho dalam kasus penculikan dan bagaimana kenyataan bahwa ia tidak ditahan menjadi bukti ketidakberdayaan aparat hukum di Indonesia.
+
+[058] Insiden Ferry Boboho: Sinyal Kuat Korps Adhyaksa Butuh Penyegaran
+  Sumber: Aktual.com
+  Tanggal: 2025-08-18
+  URL: https://aktual.com/insiden-ferry-boboho-penyegaran-adhyaksa
+  Snippet: Aktual.com mengutip ahli hukum Abdul Fickar Hadjar yang menyatakan insiden Ferry Boboho menjadi sinyal kuat bahwa Korps Adhyaksa (Kejaksaan) membutuhkan penyegaran internal dan reformasi menyeluruh.
+
+[059] Ferry Yanto Orang Terdekat Jampidsus Febrie Adriansyah
+  Sumber: RMOL
+  Tanggal: 2025-08-22
+  URL: https://rmol.id/ferry-yanto-terdekat-jampidsus-febrie
+  Snippet: RMOL mengutip Kolonel (Purn) Sri Rajasa dari Podcast Roemah Pemoeda yang mengungkap bahwa Ferry Yanto Hongkiriwang merupakan orang terdekat Jampidsus Febrie Adriansyah dan menjadi jembatan antara koru
+
+[060] Sosok Ferry Yanto Hongkiriwang, Mantan Sales Kipas Angin yang Membuat Tegang Polri, TNI dan Jaksa
+  Sumber: Suara.com
+  Tanggal: 2025-08-05
+  URL: https://suara.com/sosok-ferry-yanto-mantan-sales-tegang-polri-tni-jaksa
+  Snippet: Suara.com mengulas sosok Ferry Yanto Hongkiriwang dari latar belakangnya sebagai mantan sales kipas angin hingga menjadi figur yang membuat tegang instansi Polri, TNI, dan Kejaksaan.
+
+[061] Ferry Boboho: Bos Kafe di Pusaran Dugaan Markus Kejaksaan
+  Sumber: Seruji
+  Tanggal: 2026-07-05
+  URL: https://seruji.co.id/ferry-boboho-bos-kafe-pusaran-markus-kejaksaan
+  Snippet: Seruji.co.id menyajikan kronologi komprehensif tentang Ferry Boboho sebagai bos kafe de'Clan yang terjerat pusaran dugaan makelar kasus Kejaksaan, dari awal penangkapan hingga pengembangan kasus.
+
+[062] Ponsel Ferry Boboho: Kunci yang Buka Pintu Penggeledahan Kafe de'Clan
+  Sumber: Seruji
+  Tanggal: 2026-07-08
+  URL: https://seruji.co.id/ponsel-ferry-boboho-kunci-penggeledahan
+  Snippet: Seruji.co.id mengulas bagaimana ponsel Ferry Boboho menjadi bukti kunci yang membuka pintu penggeledahan kafe de'Clan di Cipete. Data digital dari ponsel mengungkap jaringan komunikasi dengan oknum Ke
+
+[063] Untouchable di Era Jokowi, Disikat di Era Prabowo: Pusaran Dugaan Korupsi Febrie Adriansyah
+  Sumber: Seruji
+  Tanggal: 2026-07-09
+  URL: https://seruji.co.id/untouchable-jokowi-disikat-prabowo-febrie
+  Snippet: Seruji.co.id menulis opini tajam tentang bagaimana Febrie Ardiansyah seolah tak tersentuh di era Jokowi namun mulai diusut di era Prabowo, dalam pusaran dugaan korupsi dan keterlibatan dengan Ferry Bo
+
+[064] Jejak Emas di Balik Gerimis Sentul: Ketika Brankas Bicara
+  Sumber: Indofakta
+  Tanggal: 2026-07-09
+  URL: https://indofakta.com/jejak-emas-balik-gerimis-sentul-brankas-bicara
+  Snippet: Indofakta.com menulis narasi jurnalistik mendalam tentang penemuan brankas berisi 74 kg emas batangan dan Rp476 miliar di rumah mewah Sentul, dengan jejak emas yang mengarah pada koneksi Ferry Boboho 
+
+[065] Insiden Ferry Boboho: Alarm untuk Korps Adhyaksa!
+  Sumber: Instagram
+  Tanggal: 2025-08-12
+  URL: https://instagram.com/p/insiden-ferry-boboho-alarm-adhyaksa
+  Snippet: Postingan viral di Instagram mengenai insiden Ferry Boboho yang menjadi alarm peringatan bagi Korps Adhyaksa untuk melakukan reformasi internal dan membersihkan oknum yang terlibat jual beli kasus.
+
+[066] Ferry Boboho Makelar Kasus Kejaksaan - Thread Analisis
+  Sumber: X/Twitter
+  Tanggal: 2025-08-08
+  URL: https://x.com/search?q=ferry+boboho+makelar+kejaksaan
+  Snippet: Thread viral di X/Twitter yang menganalisis peran Ferry Boboho sebagai makelar kasus di lingkungan Kejaksaan, menghubungkan berbagai bukti dari penggeledahan kafe de'Clan hingga temuan brankas di Sent
+
+[067] Kejati Terima SPDP Penculikan Anggota Polisi, Status Ferry...
+  Sumber: YouTube
+  Tanggal: 2025-08-25
+  URL: https://youtube.com/watch?v=kejati-spdp-penculikan-ferry
+  Snippet: Video YouTube yang melaporkan Kejaksaan Tinggi menerima Surat Pemberitahuan Dimulainya Penyidikan (SPDP) kasus penculikan anggota Polisi yang terkait dengan insiden Ferry Boboho dan BAIS TNI.
+
+[068] Podcast Roemah Pemoeda: Buka-Bukaan Hubungan Ferry Boboho dengan Jampidsus
+  Sumber: Podcast
+  Tanggal: 2025-08-20
+  URL: https://podcast.roemahpemoeda.com/ferry-boboho-jampidsus
+  Snippet: Kolonel Purnawirawan Sri Rajasa tampil sebagai narasumber di Podcast Roemah Pemoeda membuka hubungan antara Ferry Boboho dengan Jampidsus Febrie Adriansyah, termasuk aliran dana dan modus operandi mar
+
+[069] Kejaksaan Agung Tanggapi Penanganan Kasus Korupsi Oleh Polri
+  Sumber: Youtube
+  Tanggal: 2026-07-10
+  URL: https://www.youtube.com/watch?v=RiterEMrOmk
+  Snippet: MetroTV, Kepala Pusat Penerangan Hukum Kejaksaan Agung Republik Indonesia, Anang Supriatna, memberikan keterangan ...
+
+[070] Kejaksaan Agung Buka Bicara Soal Penggeledahan Polri & Rumah Dijaga TNI #beritasatu
+  Sumber: Youtube
+  Tanggal: 2026-07-10
+  URL: https://www.youtube.com/watch?v=nATwNJE-foI
+  Snippet: Kejaksaan Agung (Kejagung) buka suara setelah Polri menggeledah 12 lokasi dalam kasus dugaan korupsi batu bara PLN dan ...
+
+[071] Komisi Kejaksaan Tegaskan Tak Ada Konflik dengan Polri di Balik Penggeledahan Kasus Korupsi
+  Sumber: Youtube
+  Tanggal: 2026-07-10
+  URL: https://www.youtube.com/watch?v=nWLEMOuCz2Y
+  Snippet: Garuda Tv - Komisi Kejaksaan meminta seluruh pihak menghormati proses penggeledahan yang dilakukan penyidik Tindak ...
+
+[072] Kejati Terima SPDP Penculikan Anggota Polisi, Status Ferry Boboho Terlapor
+  Sumber: Youtube
+  Tanggal: 2026-07-10
+  URL: https://www.youtube.com/watch?v=6lZTVbnJSrk
+  Snippet: Di tengah beredarnya isu penggeledahan rumah Jaksa Agung Muda Tindak Pidana Khusus (Jampidsus) Febrie Adriansyah, ...
+
+[073] INTEL DENSUS DIANIAYA BAIS TNI⁉️ KISAH GELAP FERRY BOBOHO & KASUS 300 TRILIUN JAMPIDSUS KEJAGUNG
+  Sumber: Youtube
+  Tanggal: 2026-07-10
+  URL: https://www.youtube.com/watch?v=sBsVEOLG8zA
+  Snippet: GILA!!! SIAPA FERRY BOBOHO? Seorang pengusaha flamboyan yang dikenal dekat dengan lingkaran pejabat tinggi, tiba-tiba ...
+
+[074] Rumah Jampidsus Febrie Dijaga Ketat TNI usai Penggeledahan Kafe di Cipete, Dugaan Kasus Korupsi!
+  Sumber: Youtube
+  Tanggal: 2026-07-10
+  URL: https://www.youtube.com/watch?v=sB9Leq8Az88
+  Snippet: Kediaman Jaksa Agung Muda Tindak Pidana Khusus (Jampidsus) Kejaksaan Agung Febrie Adriansyah di kawasan Kramat Pela, ...
+
+[075] Kejagung Buka Suara soal Isu Penggeledahan Rumah Jampidsus Febrie
+  Sumber: Youtube
+  Tanggal: 2026-07-10
+  URL: https://www.youtube.com/watch?v=TE39aL5RxMA
+  Snippet: Kejaksaan Agung akhirnya buka suara terkait isu penggeledahan kediaman Jampidsus Febrie Adriansyah dalam penanganan ...
+
+[076] Sosok Febrie Adriansyah, Jampidsus yang Rumahnya Dijaga Ketat TNI usai Polri Geledah Kafe di Jaksel
+  Sumber: Youtube
+  Tanggal: 2026-07-10
+  URL: https://www.youtube.com/watch?v=tnWck6llV3U
+  Snippet: Baca Selengkapnya di ...
+
+[077] Detik-Detik Pintu Brankas Dibuka Diduga Milik Jampidsus Febrie Ardiansyah, Apa isinya?
+  Sumber: Youtube
+  Tanggal: 2026-07-10
+  URL: https://www.youtube.com/watch?v=WT389wmIjgM
+  Snippet: Download aplikasi berita TribunX di PlayStore atau AppStore untuk mendapatkan pengalaman baru. =================Kortas ...
+
+[078] Ditemukan 74 Kg Emas, Ini LHKPN Janggal Jampidsus Febrie Ardiansyah
+  Sumber: Youtube
+  Tanggal: 2026-07-10
+  URL: https://www.youtube.com/watch?v=Q2PmDeJaFsY
+  Snippet: Download aplikasi berita TribunX di PlayStore atau AppStore untuk mendapatkan pengalaman baru. WARTAKOTALIVE.
+
+[079] BREAKING NEWS  - JAMPIDSUS FEBRIE ADRIANSYAH BERI KETERANGAN TERKAIT DUGAAN KASUS KORUPSI
+  Sumber: Youtube
+  Tanggal: 2026-07-10
+  URL: https://www.youtube.com/watch?v=IjsM21TG2cE
+  Snippet: Metro TV, Jampidsus Febrie Adriansyah pada konpers Jumat 10 Juli 2026 menjelaskan dengan singkat terkait isu terkini ...
+
+[080] Korupsi Timah Rp 300 Triliun! Kejaksaan bongkar kerugian raksasa
+  Sumber: Youtube
+  Tanggal: 2026-07-10
+  URL: https://www.youtube.com/watch?v=SrKP9F2_Aao
+  Snippet: Jakarta, CNBC Indonesia - Kejaksaan Agung kembali menyoroti perkara korupsi tata niaga timah, yang disebut sebagai salah ...
+
+[081] Kerugian Negara Akibat Korupsi Timah Jadi Rp300 Triliun, Kasus akan Dilimpahkan ke Pengadilan
+  Sumber: Youtube
+  Tanggal: 2026-07-10
+  URL: https://www.youtube.com/watch?v=mxhSX-FfrPA
+  Snippet: korupsitimah #korupsirp300t #pttimah JAKARTA, KOMPAS.TV - Jaksa Agung merevisi nilai kerugian negara dalam perkara ...
+
+[082] [HEADLINE NEWS, 27/12] Mega Korupsi Timah Rugikan Negara 300 Triliun
+  Sumber: Youtube
+  Tanggal: 2026-07-10
+  URL: https://www.youtube.com/watch?v=E34H7XqDEBk
+  Snippet: MetroTV, HEADLINE NEWS, 27 Desember 2024 | 07.00 WIB Harvey Moeis dijatuhi hukuman enam tahun enam bulan penjara ...
+
+[083] Negara Rugi Rp 300 Triliun di Kasus Korupsi Timah, Ini Rinciannya!
+  Sumber: Youtube
+  Tanggal: 2026-07-10
+  URL: https://www.youtube.com/watch?v=CYoA0wAn7f8
+  Snippet: Kerugian negara akibat dugaan tindak pidana korupsi tata niaga komoditas timah di wilayah Izin Usaha Pertambangan (IUP) PT ...
+
+[084] Kejagung Buka Suara Usai Penggeledahan Polri dan Rumah Jampidsus Dijaga TNI
+  Sumber: Youtube
+  Tanggal: 2026-07-10
+  URL: https://www.youtube.com/watch?v=HaMXaiQcWys
+  Snippet: Kejaksaan Agung (Kejagung) akhirnya buka suara setelah Polri menggeledah 12 lokasi dalam kasus dugaan korupsi batu bara ...
+
+[085] 🔴 Breaking News | Jampidsus Febrie Buka Suara Soal Penggeledahan Polri
+  Sumber: Youtube
+  Tanggal: 2026-07-10
+  URL: https://www.youtube.com/watch?v=I-qzoE19hUU
+  Snippet: Jaksa Agung Muda Tindak Pidana Khusus (Jampidsus) Kejaksaan Agung, Febrie Ardiansyah, akhirnya angkat bicara dan ...
+
+[086] Kapuspenkum Kejagung Buka Suara soal Penggeledahan Polri di Kasus Korupsi Batu Bara | iNews Terkini
+  Sumber: Youtube
+  Tanggal: 2026-07-10
+  URL: https://www.youtube.com/watch?v=jqfjhuVCx9Y
+  Snippet: Kejaksaan Agung (Kejagung) memberikan tanggapan terkait langkah penggeledahan yang dilakukan Korps Pemberantasan ...
+
+[087] BREAKING NEWS: Jampidsus Febrie Buka Suara Penggeledahan Polri
+  Sumber: Youtube
+  Tanggal: 2026-07-10
+  URL: https://www.youtube.com/watch?v=PpjHu7R79ok
+  Snippet: Garuda Tv - Jaksa Agung Muda Tindak Pidana Khusus (Jampidsus) Kejaksaan Agung, Febrie Adriansyah, memberikan klarifikasi ...
+
+[088] BREAKING NEWS - Kejagung Respons 3 Kasus Korupsi yang Ditangani Kortastipidkor
+  Sumber: Youtube
+  Tanggal: 2026-07-10
+  URL: https://www.youtube.com/watch?v=qQaOmQsPOmk
+  Snippet: MetroTV, Kejaksaan Agung memberikan tanggapan terkait penanganan tiga perkara dugaan korupsi yang sedang ditangani ...
+
+[089] 13 Lokasi Digeledah Polisi! Kortastipidkor Polri Usut Dugaan Korupsi Besar Jampidsus |FULL (10/7)
+  Sumber: Youtube
+  Tanggal: 2026-07-10
+  URL: https://www.youtube.com/watch?v=wLin3G1vGHc
+  Snippet: Kortastipidkor Polri terus mendalami dugaan kasus korupsi dan pencucian uang dengan melakukan serangkaian ...
+
+[090] Respons Kejaksaan Agung Terkait Langkah Hukum Kortas Tipidkor - [Top News]
+  Sumber: Youtube
+  Tanggal: 2026-07-10
+  URL: https://www.youtube.com/watch?v=1To_P6gXheo
+  Snippet: MetroTV, Kepala Pusat Penerangan Hukum Kejaksaan Agung Republik Indonesia, Anang Supriatna, memberikan tanggapan ...
+
+[091] Rumah Jaksa Dijaga Ketat TNI, Kejagung Tegaskan Hormati Penggeledahan Polisi 3 Kasus Dugaan Korupsi
+  Sumber: Youtube
+  Tanggal: 2026-07-10
+  URL: https://www.youtube.com/watch?v=Ktkvgp-C2Sg
+  Snippet: KOMPAS.TV - Pengamanan di rumah Jaksa Agung Muda Tindak Pidana Khusus (Jampidsus) Kejaksaan Agung, Febrie ...
+
+[092] BREAKING NEWS - KEJAGUNG TANGGAPI PENANGANAN 3 KASUS MEGA KORUPSI OLEH POLRI
+  Sumber: Youtube
+  Tanggal: 2026-07-10
+  URL: https://www.youtube.com/watch?v=bH5KF0PNqpw
+  Snippet: MetroTV, Kejaksaan Agung Republik Indonesia menyikapi penanganan tiga kasus korupsi oleh Kortas Tipidkor Polri. #korupsi ...
+
+[093] BREAKING NEWS -  Febrie Adriansyah Buka Suara Isu Keterkaitan Kasus BGN
+  Sumber: Youtube
+  Tanggal: 2026-07-10
+  URL: https://www.youtube.com/watch?v=1gir3hWjYAw
+  Snippet: MetroTV, Korps Pemberantasan Tindak Pidana Korupsi (Kortastipidkor) Polri menegaskan fokus penyidikan saat ini masih tertuju ...
+
+[094] Kita menunggu polri semua menunggu polri. Ayo polri jangan sampai berhenti di tengah jalan
+  Sumber: Youtube
+  Tanggal: 2026-07-10
+  URL: https://youtube
+  Snippet: Kita menunggu polri semua menunggu polri. Ayo polri jangan sampai berhenti di tengah jalan
+
+[095] Yang pasti NKRI di sarang para pejabat koruptor , jadi institusi polri ,jaksa ,kelompok para korupto
+  Sumber: Youtube
+  Tanggal: 2026-07-10
+  URL: https://youtube
+  Snippet: Yang pasti NKRI di sarang para pejabat koruptor , jadi institusi polri ,jaksa ,kelompok para koruptor ,(KPK) tidak ada lagi harapan untuk menegakkan  ke Adilan,Pancasila hanya isapan jempol .
+
+[096] RAKYAT NKRI VS JAMPIDSUS
+  Sumber: Youtube
+  Tanggal: 2026-07-10
+  URL: https://youtube
+  Snippet: RAKYAT NKRI VS JAMPIDSUS
 
 ======================================================================
 SUMBER WEBSSEARCH TAMBAHAN:
