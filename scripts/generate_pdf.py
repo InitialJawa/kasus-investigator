@@ -94,7 +94,7 @@ class LaporanPDF(FPDF):
             "Periode: 2023 - 2026",
             "Tanggal: " + datetime.now().strftime("%d %B %Y"),
             "",
-            "62 Artikel Berita  |  10 Sumber Media  |  12 Aktor Teridentifikasi",
+            f"{self.total_articles} Artikel  |  {self.num_sources} Sumber  |  {self.num_actors} Aktor",
         ]
         for line in lines:
             self.cell(0, 7, s(line), align="C", new_x="LMARGIN", new_y="NEXT")
@@ -214,6 +214,13 @@ def generate_pdf():
     actors = raw.get("actor_mentions", {})
     centrality = analysis.get("sna", {}).get("centrality", {})
     sn = analysis.get("sna", {})
+    num_sources = len(raw["metadata"].get("sources", []))
+    num_actors = len(actors)
+
+    # Simpan di pdf object supaya bisa diakses dari method lain
+    pdf.total_articles = total
+    pdf.num_sources = num_sources
+    pdf.num_actors = num_actors
 
     # =============================================
     # HALAMAN 1: COVER
@@ -252,9 +259,9 @@ def generate_pdf():
     )
 
     pdf.cerita(
-        "Laporan ini menyajikan fakta-fakta dari 62 artikel berita publik. "
-        "Semua data tercantum di bagian lampiran. Anda bisa langsung cek "
-        "sumbernya sendiri."
+        f"Laporan ini menyajikan fakta-fakta dari {total} artikel berita publik "
+        f"({num_sources} sumber). Semua data tercantum di bagian lampiran. "
+        "Anda bisa langsung cek sumbernya sendiri."
     )
 
     # =============================================
@@ -430,8 +437,8 @@ def generate_pdf():
     pdf.judul_bagian(4, "Apa Kata Media?")
 
     pdf.cerita(
-        "Kami menganalisis 62 artikel berita dari 10 sumber media. Berikut "
-        "bagaimana media meliput konflik ini:"
+        f"Kami menganalisis {total} artikel berita dari {num_sources} sumber media. "
+        "Berikut bagaimana media meliput konflik ini:"
     )
 
     # Sentimen visual
@@ -475,9 +482,9 @@ def generate_pdf():
 
     pdf.highlight_box(
         "APA ARTINYA?",
-        "Sebagian besar berita (50 dari 62) bersifat netral -- artinya media "
-        "lebih banyak melaporkan fakta daripada berpihak. Tapi 9 berita "
-        "negatif menunjukkan ada framing konflik yang cukup kuat di media."
+        f"Dari {total} berita, {sent['netral']} bersifat netral -- artinya media "
+        f"lebih banyak melaporkan fakta daripada berpihak. Tapi {sent['negatif']} "
+        "berita negatif menunjukkan ada framing konflik yang cukup kuat di media."
     )
 
     # Sumber media
@@ -581,7 +588,7 @@ def generate_pdf():
     pdf.judul_bagian(6, "Kesimpulan")
 
     pdf.cerita(
-        "Setelah menganalisis 62 artikel berita dari 10 sumber media, "
+        f"Setelah menganalisis {total} artikel berita dari {num_sources} sumber media, "
         "berikut adalah yang bisa kami simpulkan:"
     )
 
@@ -612,8 +619,8 @@ def generate_pdf():
     poin_catatan = [
         "Analisis ini hanya berdasarkan berita PUBLIK. Sumber classified "
         "atau dokumen hukum resmi tidak termasuk.",
-        "Sebagian besar berita bersifat netral (50 dari 62), artinya "
-        "framing media relatif seimbang.",
+        f"Sebagian besar berita bersifat netral ({sent['netral']} dari {total}), "
+        "artinya framing media relatif seimbang.",
         "Confidence level: MEDIUM -- cukup untuk gambaran umum, tapi "
         "belum cukup untuk kesimpulan hukum.",
     ]
@@ -673,12 +680,21 @@ def generate_pdf():
     pdf.set_x(10)
     pdf.cell(0, 8, s("Sumber Data:"), new_x="LMARGIN", new_y="NEXT")
 
-    sumber_list = [
-        "Detik (50 artikel), Tempo (2), Infonews (2), Badiklat Kejaksaan (2),",
-        "Sindikatpost (1), Kompas (1), CNN Indonesia (1), Sindonews (1),",
-        "MetroTV (1), iNews (1)",
-        "Total: 62 artikel unik",
-    ]
+    # Bangun sumber list dinamis dari data
+    source_dist = analysis.get("source_distribution", {})
+    sumber_list = []
+    if source_dist.get("labels"):
+        sorted_src = sorted(zip(source_dist["values"], source_dist["labels"]), reverse=True)
+        # Buat baris-ringkas per 3 sumber
+        batch = []
+        for val, label in sorted_src:
+            batch.append(f"{label} ({val})")
+            if len(batch) == 3:
+                sumber_list.append(", ".join(batch) + ",")
+                batch = []
+        if batch:
+            sumber_list.append(", ".join(batch))
+    sumber_list.append(f"Total: {total} artikel dari {num_sources} sumber")
     for sl in sumber_list:
         pdf.poin(sl)
 
@@ -689,9 +705,9 @@ def generate_pdf():
     pdf.cell(0, 8, s("Metodologi:"), new_x="LMARGIN", new_y="NEXT")
 
     metode = [
-        "1. Web scraping dari 6 portal berita + 1 websearch manual",
-        "2. 14 keyword pencarian terkait konflik Kejaksaan vs Polri",
-        "3. Deduplikasi berdasarkan judul artikel",
+        f"1. Web scraping (Playwright) + Detik search + websearch manual",
+        f"2. Sumber: portal berita, YouTube, Kaskus, TikTok, Instagram, X/Twitter, Podcast",
+        "3. Deduplikasi berdasarkan judul dan URL artikel",
         "4. Analisis sentimen: lexicon-based (kata positif/negatif)",
         "5. SNA: NetworkX centrality metrics (betweenness, degree)",
         "6. Semua data dari sumber publik, tidak termasuk classified",
@@ -721,9 +737,15 @@ def generate_pdf():
         "di: github.com/InitialJawa/kasus-investigator"
     ), align="C")
 
-    # Simpan
+    # Simpan (coba nama utama, kalau gagal pakai nama sementara)
     pdf_path = OUTPUT_DIR / "laporan_investigasi.pdf"
-    pdf.output(str(pdf_path))
+    tmp_path = OUTPUT_DIR / "laporan_investigasi_new.pdf"
+    try:
+        pdf.output(str(pdf_path))
+    except PermissionError:
+        pdf_path = tmp_path
+        pdf.output(str(pdf_path))
+        print(f"[WARN] File asli terkunci, disimpan sebagai: {tmp_path.name}")
     print(f"\n[SAVE] {pdf_path}")
     print(f"[DONE] PDF laporan selesai! {pdf.page_no()} halaman")
     return pdf_path
