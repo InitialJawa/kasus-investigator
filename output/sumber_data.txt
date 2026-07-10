@@ -1,11 +1,32 @@
 ======================================================================
 LAPORAN SUMBER DATA - KASUS INVESTIGASI
 Konflik Kejaksaan Agung vs Polri (2023-2026)
-Generated: 2026-07-10 14:35:36
 ======================================================================
 
-Total artikel: 62
-Sumber: Detik, Tempo, Infonews, Sindikatpost, Kompas, CNN Indonesia, Sindonews, MetroTV, Badiklat Kejaksaan, iNews
+RINGKASAN UNTUK ORANG AWAM:
+======================================================================
+Apa ini?
+  File ini berisi daftar lengkap semua sumber berita yang digunakan
+  dalam analisis kasus konflik antara Kejaksaan Agung dan Polri.
+  Gunakan file ini untuk mengecek sendiri apakah informasi di
+  laporan PDF benar atau tidak.
+
+Bagaimana cara pakai?
+  1. Cari artikel yang menarik perhatian Anda
+  2. Buka link-nya di browser
+  3. Bandingkan dengan yang tertulis di laporan PDF
+
+Catatan penting:
+  - Semua sumber dari media publik (bukan dokumen rahasia)
+  - Data dikumpulkan: Juli 2026
+  - Total: 62 artikel dari 10 sumber media
+  - Metode: web scraping + websearch
+
+Data Statistik:
+  - Sentimen: Negatif (9), Netral (50), Positif (3)
+  - Aktor paling disebut: Prabowo (15x), TNI (9x), Burhanuddin (8x)
+  - Top pengaruh jaringan: Burhanuddin (0.1) > Prabowo (0.067) > Listyo Sigit (0.029)
+======================================================================
 
 ----------------------------------------------------------------------
 STATISTIK PER SUMBER:
