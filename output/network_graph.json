@@ -1,0 +1,277 @@
+{
+  "nodes": [
+    {
+      "id": "Kejaksaan",
+      "type": "faction",
+      "size": 3000
+    },
+    {
+      "id": "Polri",
+      "type": "faction",
+      "size": 3000
+    },
+    {
+      "id": "Istana",
+      "type": "faction",
+      "size": 3000
+    },
+    {
+      "id": "DPR",
+      "type": "actor",
+      "size": 800,
+      "faction": "DPR"
+    },
+    {
+      "id": "Yudikatif",
+      "type": "faction",
+      "size": 3000
+    },
+    {
+      "id": "Antikorupsi",
+      "type": "faction",
+      "size": 3000
+    },
+    {
+      "id": "KPK",
+      "type": "actor",
+      "faction": "Antikorupsi",
+      "size": 800
+    },
+    {
+      "id": "Prabowo",
+      "type": "actor",
+      "faction": "Polri",
+      "size": 800
+    },
+    {
+      "id": "Kapolri",
+      "type": "actor",
+      "faction": "Polri",
+      "size": 800
+    },
+    {
+      "id": "Komisi III DPR",
+      "type": "actor",
+      "faction": "DPR",
+      "size": 800
+    },
+    {
+      "id": "Prabowo Subianto",
+      "type": "actor",
+      "faction": "Polri",
+      "size": 800
+    },
+    {
+      "id": "St Burhanuddin",
+      "type": "actor",
+      "faction": "Kejaksaan",
+      "size": 800
+    },
+    {
+      "id": "Burhanuddin",
+      "type": "actor",
+      "faction": "Kejaksaan",
+      "size": 800
+    },
+    {
+      "id": "Listyo Sigit Prabowo",
+      "type": "actor",
+      "faction": "Polri",
+      "size": 800
+    },
+    {
+      "id": "Listyo Sigit",
+      "type": "actor",
+      "faction": "Polri",
+      "size": 800
+    },
+    {
+      "id": "Sanitiar Burhanuddin",
+      "type": "actor",
+      "faction": "Kejaksaan",
+      "size": 800
+    }
+  ],
+  "edges": [
+    {
+      "source": "Kejaksaan",
+      "target": "St Burhanuddin",
+      "weight": 3
+    },
+    {
+      "source": "Kejaksaan",
+      "target": "Polri",
+      "weight": 32
+    },
+    {
+      "source": "Kejaksaan",
+      "target": "Burhanuddin",
+      "weight": 4
+    },
+    {
+      "source": "Kejaksaan",
+      "target": "Sanitiar Burhanuddin",
+      "weight": 1
+    },
+    {
+      "source": "Polri",
+      "target": "Prabowo",
+      "weight": 10
+    },
+    {
+      "source": "Polri",
+      "target": "Kapolri",
+      "weight": 10
+    },
+    {
+      "source": "Polri",
+      "target": "Prabowo Subianto",
+      "weight": 5
+    },
+    {
+      "source": "Polri",
+      "target": "Listyo Sigit Prabowo",
+      "weight": 3
+    },
+    {
+      "source": "Polri",
+      "target": "Listyo Sigit",
+      "weight": 3
+    },
+    {
+      "source": "DPR",
+      "target": "Komisi III DPR",
+      "weight": 2
+    },
+    {
+      "source": "DPR",
+      "target": "DPR",
+      "weight": 2
+    },
+    {
+      "source": "Antikorupsi",
+      "target": "KPK",
+      "weight": 4
+    },
+    {
+      "source": "Prabowo",
+      "target": "Kapolri",
+      "weight": 5
+    },
+    {
+      "source": "Prabowo",
+      "target": "Prabowo Subianto",
+      "weight": 5
+    },
+    {
+      "source": "Prabowo",
+      "target": "St Burhanuddin",
+      "weight": 3
+    },
+    {
+      "source": "Prabowo",
+      "target": "Burhanuddin",
+      "weight": 4
+    },
+    {
+      "source": "Prabowo",
+      "target": "Listyo Sigit Prabowo",
+      "weight": 3
+    },
+    {
+      "source": "Prabowo",
+      "target": "Listyo Sigit",
+      "weight": 3
+    },
+    {
+      "source": "Prabowo",
+      "target": "Sanitiar Burhanuddin",
+      "weight": 1
+    },
+    {
+      "source": "Kapolri",
+      "target": "Prabowo Subianto",
+      "weight": 4
+    },
+    {
+      "source": "Kapolri",
+      "target": "St Burhanuddin",
+      "weight": 3
+    },
+    {
+      "source": "Kapolri",
+      "target": "Burhanuddin",
+      "weight": 3
+    },
+    {
+      "source": "Kapolri",
+      "target": "Listyo Sigit Prabowo",
+      "weight": 3
+    },
+    {
+      "source": "Kapolri",
+      "target": "Listyo Sigit",
+      "weight": 3
+    },
+    {
+      "source": "Prabowo Subianto",
+      "target": "St Burhanuddin",
+      "weight": 2
+    },
+    {
+      "source": "Prabowo Subianto",
+      "target": "Burhanuddin",
+      "weight": 3
+    },
+    {
+      "source": "Prabowo Subianto",
+      "target": "Listyo Sigit Prabowo",
+      "weight": 2
+    },
+    {
+      "source": "Prabowo Subianto",
+      "target": "Listyo Sigit",
+      "weight": 2
+    },
+    {
+      "source": "Prabowo Subianto",
+      "target": "Sanitiar Burhanuddin",
+      "weight": 1
+    },
+    {
+      "source": "St Burhanuddin",
+      "target": "Burhanuddin",
+      "weight": 3
+    },
+    {
+      "source": "St Burhanuddin",
+      "target": "Listyo Sigit Prabowo",
+      "weight": 3
+    },
+    {
+      "source": "St Burhanuddin",
+      "target": "Listyo Sigit",
+      "weight": 3
+    },
+    {
+      "source": "Burhanuddin",
+      "target": "Listyo Sigit Prabowo",
+      "weight": 3
+    },
+    {
+      "source": "Burhanuddin",
+      "target": "Listyo Sigit",
+      "weight": 3
+    },
+    {
+      "source": "Burhanuddin",
+      "target": "Sanitiar Burhanuddin",
+      "weight": 1
+    },
+    {
+      "source": "Listyo Sigit Prabowo",
+      "target": "Listyo Sigit",
+      "weight": 3
+    }
+  ]
+}

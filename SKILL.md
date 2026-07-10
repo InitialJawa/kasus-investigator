@@ -197,7 +197,36 @@ Gunakan tools berikut sesuai kebutuhan:
 6. **Paralel** — Jalankan pengumpulan dan analisis data secara paralel jika memungkinkan
 7. **Bahasa** — Gunakan Bahasa Indonesia untuk semua output
 
-## Contoh Kasus
+## Modul: Political Investigation
+
+Modul khusus untuk investigasi konflik antar institusi/lembaga politik.
+
+### Trigger
+- "Investigasi konflik antara [Institusi A] dan [Institusi B]"
+- "Analisis perseteruan lembaga penegak hukum"
+- "Politik jabatan", "logistik politik", "transisi kekuasaan"
+
+### Workflow Tambahan
+
+1. **Power Mapping**
+   - Identifikasi jabatan strategis yang diperebutkan
+   - Mapping loyalis vs oposisi dalam institusi
+   - Rotasi mutasi dan dampaknya
+
+2. **Media Framing Analysis**
+   - Bagaimana media membingkai konflik?
+   - Siapa media yang condong ke kubu tertentu?
+   - Pola pemberitaan berulang
+
+3. **Institutional Network**
+   - Hubungan lintas institusi (Kejaksaan, Polri, DPR, MK, KPK)
+   - Identifikasi bridge nodes (tokoh penghubung)
+   - Faksi dalam institusi
+
+4. **Output Khusus**
+   - Power map visual (siapa mempengaruhi siapa)
+   - Faction analysis (siapa di kubu mana)
+   - Conflict timeline (kapan konflik memanas)
 
 ### Contoh 1: Investigasi Akun Buzzer
 ```
@@ -209,14 +238,14 @@ Agent:
 4. Hasil: Identifikasi cluster, posting pattern, network influence
 ```
 
-### Contoh 2: Insiden Keamanan
+### Contoh 2: Konflik Antar Institusi
 ```
-User: Server kami kena unauthorized access, log ada di /var/log/auth.log
+User: Investigasi konflik Kejaksaan Agung vs Polri
 Agent:
-1. Klasifikasi: INCIDENT + CYBER
-2. Kumpulan: Parse auth.log, IP extraction, geo-lookup
-3. Analisis: Temporal pattern, IP clustering, attack vector
-4. Hasil: Timeline serangan, IP attacker, modus operandi
+1. Klasifikasi: MIXED (OSINT + SNA + DATA)
+2. Kumpulan: Scrape 7+ portal berita, 14 keyword, 2023-2026
+3. Analisis: SNA centrality, sentimen, timeline, media framing
+4. Output: PDF laporan + TXT sumber + PNG visual mapping
 ```
 
 ### Contoh 3: Analisis Data Trading
@@ -227,4 +256,28 @@ Agent:
 2. Kumpulan: Load CSV, extract features
 3. Anomali: Isolation forest, Z-score, time series
 4. Hasil: Identifikasi anomali, cluster trader, pattern
+```
+
+## Script Pipeline
+
+Skill ini menyediakan pipeline otomatis:
+
+```bash
+# 1. Scrape data
+python scripts/scrape.py
+
+# 2. Analisis data
+python scripts/analyze.py
+
+# 3. Generate PDF
+python scripts/generate_pdf.py
+
+# 4. Generate visual mapping
+python scripts/generate_map.py
+
+# Output:
+# output/laporan_investigasi.pdf  — Laporan lengkap
+# output/sumber_data.txt          — Semua sumber & metadata
+# output/mapping_kasus.png        — Visual mapping 4-panel
+# output/centrality_ranking.png   — Perankingan aktor
 ```

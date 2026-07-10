@@ -1,0 +1,606 @@
+{
+  "metadata": {
+    "analyzed_at": "2026-07-10T14:30:45.759998",
+    "total_articles": 62
+  },
+  "sentiment": {
+    "summary": {
+      "positif": 3,
+      "negatif": 9,
+      "netral": 50
+    },
+    "details": [
+      {
+        "title": "ISESS Minta Penanganan Korupsi Kortas Tipikor Polri Bebas Intervensi",
+        "sentiment": "negatif",
+        "score": -1.0
+      },
+      {
+        "title": "Gubernur Lemhannas Tutup P3N 27: Pemimpin Nasional Harus Berintegritas",
+        "sentiment": "netral",
+        "score": 0.0
+      },
+      {
+        "title": "Transaksi Judol Terus Diungkap, Payment Gateway Perlu Diperkuat",
+        "sentiment": "netral",
+        "score": 0.0
+      },
+      {
+        "title": "Safari Ramadan, Kapolda Sumsel Gandeng Forkopimda Jaga Kamtibmas",
+        "sentiment": "netral",
+        "score": 0.0
+      },
+      {
+        "title": "Ini 5 Dewan Pakar Hoegeng Awards 2026",
+        "sentiment": "netral",
+        "score": 0.0
+      },
+      {
+        "title": "Menjawab Keresahan, Menjaga Profesionalisme TNI-Polri",
+        "sentiment": "netral",
+        "score": 0.0
+      },
+      {
+        "title": "Kronologi Kasus Match Fixing PSS Sleman Berujung Minus 3 Poin-Denda Uang",
+        "sentiment": "netral",
+        "score": 0.0
+      },
+      {
+        "title": "Polri Umumkan Vigit Waluyo Sebagai Tersangka Mafia Bola",
+        "sentiment": "netral",
+        "score": 0.0
+      },
+      {
+        "title": "Vigit Waluyo Ditetapkan Tersangka oleh Satgas Antimafia Bola",
+        "sentiment": "netral",
+        "score": 0.0
+      },
+      {
+        "title": "Pimpinan KPK Tersangka Bukan Kali Ini Saja, tapi Kini Ada yang Beda",
+        "sentiment": "netral",
+        "score": 0.0
+      },
+      {
+        "title": "Timeline Kasus Razman: Berawal Ribut dengan Hotman, Kini Dieksekusi ke Lapas",
+        "sentiment": "netral",
+        "score": 0.0
+      },
+      {
+        "title": "Jabar Hari Ini: Tiga Anak Disekap dan Nyaris Dibakar Ayahnya",
+        "sentiment": "netral",
+        "score": 0.0
+      },
+      {
+        "title": "Citra KPK Terendah, Legislator Singgung Perseteruan dengan Dewas",
+        "sentiment": "negatif",
+        "score": -1.0
+      },
+      {
+        "title": "Medina Zein Dijemput Paksa-Ditahan karena Kasus Ancaman Bom",
+        "sentiment": "negatif",
+        "score": -1.0
+      },
+      {
+        "title": "Perhimpunan Dokter Umum RI Surati Prabowo, Desak Perlindungan Nakes",
+        "sentiment": "netral",
+        "score": 0.0
+      },
+      {
+        "title": "Pidato Lengkap Prabowo di Hari Bhayangkara Ke-80",
+        "sentiment": "netral",
+        "score": 0.0
+      },
+      {
+        "title": "Para Mantan Kapolri Hadir di Upacara Hari Bhayangkara ke-80",
+        "sentiment": "netral",
+        "score": 0.0
+      },
+      {
+        "title": "ABG di Bandung Diperkosa, MenPPPA Bakal Temui Jaksa Agung-Kapolri",
+        "sentiment": "netral",
+        "score": 0.0
+      },
+      {
+        "title": "Prabowo Jadi Inspektur Upacara Hari Bhayangkara ke-80 di Satlat Brimob Cikeas",
+        "sentiment": "netral",
+        "score": 0.0
+      },
+      {
+        "title": "Jampidsus Jawab soal Isu Mundur: Saya Masih Terima Perintah Tangani Perkara",
+        "sentiment": "netral",
+        "score": 0.0
+      },
+      {
+        "title": "Sosok Lalu Iwan, Tersangka Korupsi MBG yang Pernah Bertugas di Polda NTB",
+        "sentiment": "negatif",
+        "score": -1.0
+      },
+      {
+        "title": "Polisi Bidik Tersangka Jual Beli Jabatan di Pemkab Bogor",
+        "sentiment": "netral",
+        "score": 0.0
+      },
+      {
+        "title": "Gubernur Andi Sudirman Ajak Kepala BPKP Sulsel Kawal Asta Cita Presiden",
+        "sentiment": "netral",
+        "score": 0.0
+      },
+      {
+        "title": "Profil Dirgakkum Korlantas Kombes I Made Agus Prasatya yang Baru Dilantik",
+        "sentiment": "netral",
+        "score": 0.0
+      },
+      {
+        "title": "Risiko Perubahan Paradigma dalam UU TNI",
+        "sentiment": "netral",
+        "score": 0.0
+      },
+      {
+        "title": "Al Haris Warning ASN di Jambi Tetap Netral Menuju Pemilu 2024",
+        "sentiment": "netral",
+        "score": 0.0
+      },
+      {
+        "title": "Gubernur Kalteng Ingatkan Pentingnya Penanganan Pasca Banjir Lamandau",
+        "sentiment": "netral",
+        "score": 0.0
+      },
+      {
+        "title": "Ingatkan Tantangan Global, Ini 5 Pesan Penting Wapres Ma'ruf untuk Polri",
+        "sentiment": "netral",
+        "score": 0.0
+      },
+      {
+        "title": "Di Rakernis Reskrim, Kapolri Minta Penyidik Adaptif Hadapi Modus-modus Baru",
+        "sentiment": "netral",
+        "score": 0.0
+      },
+      {
+        "title": "Reaksi Penegak Hukum Setelah KUHP dan KUHAP Baru Berlaku Secara Sah",
+        "sentiment": "netral",
+        "score": 0.0
+      },
+      {
+        "title": "Langkah Penegak Hukum Usai KUHP dan KUHAP Baru Resmi Berlaku",
+        "sentiment": "netral",
+        "score": 0.0
+      },
+      {
+        "title": "Kapolri Dorong Sinergi Polri-Kejagung Terapkan KUHP-KUHAP Baru agar Penanganan Perkara Efektif",
+        "sentiment": "positif",
+        "score": 1.0
+      },
+      {
+        "title": "Kapolri-Jaksa Agung Teken MoU Sinergitas Penerapan KUHP Baru",
+        "sentiment": "netral",
+        "score": 0.0
+      },
+      {
+        "title": "Duduk Perkara Razman Arif Nasution Dijebloskan ke Lapas Cipinang",
+        "sentiment": "netral",
+        "score": 0.0
+      },
+      {
+        "title": "Ini 3 Besar Kandidat Polisi Inovatif Hoegeng Awards 2026",
+        "sentiment": "netral",
+        "score": 0.0
+      },
+      {
+        "title": "Jabar Hari Ini: Vonis 2,5 Tahun Penjara untuk Resbob",
+        "sentiment": "netral",
+        "score": 0.0
+      },
+      {
+        "title": "Kejagung Imbau Publik Tak Bikin Opini Kaitkan Kasus Cuma dari Medsos",
+        "sentiment": "netral",
+        "score": 0.0
+      },
+      {
+        "title": "Kejagung Hormati Proses Penyidikan Polri Terkait 3 Perkara Korupsi",
+        "sentiment": "negatif",
+        "score": -1.0
+      },
+      {
+        "title": "Komisi III DPR Minta TNI-Polri Solid dalam Pemberantasan Korupsi",
+        "sentiment": "netral",
+        "score": 0.0
+      },
+      {
+        "title": "Soal Pengamanan di Rumah Jampidsus, Ini Kata TNI",
+        "sentiment": "netral",
+        "score": 0.0
+      },
+      {
+        "title": "1.836 Pasangan di Kalteng Urus Cerai dalam 6 Bulan, Ini Pemicunya",
+        "sentiment": "netral",
+        "score": 0.0
+      },
+      {
+        "title": "BP MPR Gelar FGD Pertahanan, Pakar UGM Soroti Ancaman Siber dan Antariksa",
+        "sentiment": "negatif",
+        "score": -1.0
+      },
+      {
+        "title": "Tanggal 5 Juli Memperingati Apa? Ini Daftar Hari Pentingnya",
+        "sentiment": "netral",
+        "score": 0.0
+      },
+      {
+        "title": "Dirjen Imigrasi Gandeng KPK Perkuat Pengawasan, Ingatkan Pentingnya Integritas",
+        "sentiment": "positif",
+        "score": 1.0
+      },
+      {
+        "title": "Guru Besar UINSA Surabaya Beberkan Catatan Kritis RUU TNI, Polri, Kejaksaan",
+        "sentiment": "netral",
+        "score": 0.0
+      },
+      {
+        "title": "Sampai Kapan Kita Butuh KPK?",
+        "sentiment": "netral",
+        "score": 0.0
+      },
+      {
+        "title": "Kepercayaan ke Polri 82,4%, Ketua MKD DPR: Kinerjanya Diapresiasi Masyarakat",
+        "sentiment": "netral",
+        "score": 0.0
+      },
+      {
+        "title": "Kepercayaan ke Polri 82,4%, Rajiv: Cerminan Pengakuan Publik atas Kinerja",
+        "sentiment": "netral",
+        "score": 0.0
+      },
+      {
+        "title": "3 Tersangka Kasus Penggelapan Dana Syariah Indonesia Segera Disidang",
+        "sentiment": "netral",
+        "score": 0.0
+      },
+      {
+        "title": "DIM RUU Polri: Usia Pensiun Pati Paling Tinggi 60, Bintang 4 Bisa Diperpanjang 1 Tahun",
+        "sentiment": "netral",
+        "score": 0.0
+      },
+      {
+        "title": "Kejaksaan Agung: Hubungan dengan Polri Baik-baik Saja",
+        "sentiment": "netral",
+        "score": 0.0
+      },
+      {
+        "title": "Konflik Polri vs Kejaksaan dan Bayang-Bayang Intervensi Militer",
+        "sentiment": "negatif",
+        "score": -1.0
+      },
+      {
+        "title": "Peristiwa Jampidsus Kejagung: Membaca Ketegangan Polri, TNI, dan Kejaksaan",
+        "sentiment": "netral",
+        "score": 0.0
+      },
+      {
+        "title": "Mengapa Prabowo Tak Kunjung Mengganti Kapolri dan Jaksa Agung",
+        "sentiment": "netral",
+        "score": 0.0
+      },
+      {
+        "title": "Soal Perpres Perlindungan Jaksa, Komjak Bantah Ada Konflik Kejaksaan dengan Polri",
+        "sentiment": "negatif",
+        "score": -1.0
+      },
+      {
+        "title": "Prabowo Panggil Panglima TNI, Kapolri, hingga Jaksa Agung ke Istana",
+        "sentiment": "netral",
+        "score": 0.0
+      },
+      {
+        "title": "Presiden Prabowo Mendadak Panggil Kapolri-Jaksa Agung ke Istana",
+        "sentiment": "netral",
+        "score": 0.0
+      },
+      {
+        "title": "Penyusunan Kabinet, Penunjukan Jaksa Agung Diingatkan Tak Berafiliasi Parpol",
+        "sentiment": "netral",
+        "score": 0.0
+      },
+      {
+        "title": "Jaksa Agung dan Kapolri Satukan Persepsi Perkuat Kerja Sama Hadapi KUHP Baru",
+        "sentiment": "positif",
+        "score": 1.0
+      },
+      {
+        "title": "Presiden Prabowo Tunjuk Sanitiar Burhanuddin Sebagai Jaksa Agung 2024-2029",
+        "sentiment": "netral",
+        "score": 0.0
+      },
+      {
+        "title": "Kejaksaan Agung Terbitkan Surat Rahasia Meningkatkan Kewaspadaan",
+        "sentiment": "negatif",
+        "score": -1.0
+      },
+      {
+        "title": "Prabowo Panggil Kapolri-Jaksa Agung ke Istana Perintahkan Tindak Tegas Pengoplos Beras",
+        "sentiment": "netral",
+        "score": 0.0
+      }
+    ]
+  },
+  "sna": {
+    "nodes": 16,
+    "edges": 36,
+    "centrality": {
+      "Kejaksaan": {
+        "degree": 0.2667,
+        "betweenness": 0.0,
+        "degree_weighted": 40
+      },
+      "Polri": {
+        "degree": 0.4,
+        "betweenness": 0.0,
+        "degree_weighted": 63
+      },
+      "Istana": {
+        "degree": 0.0,
+        "betweenness": 0.0,
+        "degree_weighted": 0
+      },
+      "DPR": {
+        "degree": 0.2,
+        "betweenness": 0.0,
+        "degree_weighted": 6
+      },
+      "Yudikatif": {
+        "degree": 0.0,
+        "betweenness": 0.0,
+        "degree_weighted": 0
+      },
+      "Antikorupsi": {
+        "degree": 0.0667,
+        "betweenness": 0.0,
+        "degree_weighted": 4
+      },
+      "KPK": {
+        "degree": 0.0667,
+        "betweenness": 0.0,
+        "degree_weighted": 4
+      },
+      "Prabowo": {
+        "degree": 0.5333,
+        "betweenness": 0.0,
+        "degree_weighted": 34
+      },
+      "Kapolri": {
+        "degree": 0.4667,
+        "betweenness": 0.0,
+        "degree_weighted": 31
+      },
+      "Komisi III DPR": {
+        "degree": 0.0667,
+        "betweenness": 0.0,
+        "degree_weighted": 2
+      },
+      "Prabowo Subianto": {
+        "degree": 0.5333,
+        "betweenness": 0.0667,
+        "degree_weighted": 24
+      },
+      "St Burhanuddin": {
+        "degree": 0.4667,
+        "betweenness": 0.0,
+        "degree_weighted": 20
+      },
+      "Burhanuddin": {
+        "degree": 0.5333,
+        "betweenness": 0.0238,
+        "degree_weighted": 24
+      },
+      "Listyo Sigit Prabowo": {
+        "degree": 0.4667,
+        "betweenness": 0.0286,
+        "degree_weighted": 20
+      },
+      "Listyo Sigit": {
+        "degree": 0.4667,
+        "betweenness": 0.0286,
+        "degree_weighted": 20
+      },
+      "Sanitiar Burhanuddin": {
+        "degree": 0.2667,
+        "betweenness": 0.1,
+        "degree_weighted": 4
+      }
+    },
+    "factions": [
+      false,
+      true
+    ]
+  },
+  "timeline": {
+    "dates": [
+      "2024-10",
+      "2025-06",
+      "2025-07",
+      "2025-08",
+      "2025-10",
+      "2025-12",
+      "2026-07"
+    ],
+    "counts": [
+      2,
+      1,
+      2,
+      2,
+      1,
+      1,
+      3
+    ],
+    "total_dated": 12
+  },
+  "source_distribution": {
+    "labels": [
+      "Detik",
+      "Tempo",
+      "Infonews",
+      "Sindikatpost",
+      "Kompas",
+      "CNN Indonesia",
+      "Sindonews",
+      "MetroTV",
+      "Badiklat Kejaksaan",
+      "iNews"
+    ],
+    "values": [
+      50,
+      2,
+      2,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      1
+    ]
+  },
+  "keyword_relevance": {
+    "labels": [
+      "kejaksaan polri konflik",
+      "kejaksaan agung vs polri",
+      "jaksa agung kapolri",
+      "kejaksaan polri jabatan",
+      "kabareskrim jaksa agung",
+      "kejaksaan polri perseteruan",
+      "kejaksaan polri logistik politik",
+      "kejaksaan polri 2025",
+      "konflik lembaga hukum indonesia",
+      "dpr kejaksaan polri"
+    ],
+    "values": [
+      5,
+      5,
+      5,
+      5,
+      5,
+      4,
+      4,
+      4,
+      4,
+      4
+    ]
+  },
+  "actor_mentions": {
+    "TNI": {
+      "role": "Militer",
+      "count": 9,
+      "articles": [
+        "Menjawab Keresahan, Menjaga Profesionalisme TNI-Polri",
+        "Risiko Perubahan Paradigma dalam UU TNI",
+        "Komisi III DPR Minta TNI-Polri Solid dalam Pemberantasan Korupsi",
+        "Soal Pengamanan di Rumah Jampidsus, Ini Kata TNI",
+        "Guru Besar UINSA Surabaya Beberkan Catatan Kritis RUU TNI, Polri, Kejaksaan",
+        "Kejaksaan Agung: Hubungan dengan Polri Baik-baik Saja",
+        "Konflik Polri vs Kejaksaan dan Bayang-Bayang Intervensi Militer",
+        "Peristiwa Jampidsus Kejagung: Membaca Ketegangan Polri, TNI, dan Kejaksaan",
+        "Prabowo Panggil Panglima TNI, Kapolri, hingga Jaksa Agung ke Istana"
+      ]
+    },
+    "Prabowo": {
+      "role": "Presiden",
+      "count": 10,
+      "articles": [
+        "Perhimpunan Dokter Umum RI Surati Prabowo, Desak Perlindungan Nakes",
+        "Pidato Lengkap Prabowo di Hari Bhayangkara Ke-80",
+        "Prabowo Jadi Inspektur Upacara Hari Bhayangkara ke-80 di Satlat Brimob Cikeas",
+        "Mengapa Prabowo Tak Kunjung Mengganti Kapolri dan Jaksa Agung",
+        "Prabowo Panggil Panglima TNI, Kapolri, hingga Jaksa Agung ke Istana",
+        "Presiden Prabowo Mendadak Panggil Kapolri-Jaksa Agung ke Istana",
+        "Penyusunan Kabinet, Penunjukan Jaksa Agung Diingatkan Tak Berafiliasi Parpol",
+        "Jaksa Agung dan Kapolri Satukan Persepsi Perkuat Kerja Sama Hadapi KUHP Baru",
+        "Presiden Prabowo Tunjuk Sanitiar Burhanuddin Sebagai Jaksa Agung 2024-2029",
+        "Prabowo Panggil Kapolri-Jaksa Agung ke Istana Perintahkan Tindak Tegas Pengoplos Beras"
+      ]
+    },
+    "Komisi III DPR": {
+      "role": "DPR",
+      "count": 1,
+      "articles": [
+        "Komisi III DPR Minta TNI-Polri Solid dalam Pemberantasan Korupsi"
+      ]
+    },
+    "Febrie Adriansyah": {
+      "role": "Jampidsus",
+      "count": 2,
+      "articles": [
+        "Kejaksaan Agung: Hubungan dengan Polri Baik-baik Saja",
+        "Konflik Polri vs Kejaksaan dan Bayang-Bayang Intervensi Militer"
+      ]
+    },
+    "Ferry Hongkiriwang": {
+      "role": "Pengusaha/Operator",
+      "count": 2,
+      "articles": [
+        "Kejaksaan Agung: Hubungan dengan Polri Baik-baik Saja",
+        "Konflik Polri vs Kejaksaan dan Bayang-Bayang Intervensi Militer"
+      ]
+    },
+    "Densus 88": {
+      "role": "Antiteror",
+      "count": 1,
+      "articles": [
+        "Konflik Polri vs Kejaksaan dan Bayang-Bayang Intervensi Militer"
+      ]
+    },
+    "Prabowo Subianto": {
+      "role": "Presiden",
+      "count": 5,
+      "articles": [
+        "Mengapa Prabowo Tak Kunjung Mengganti Kapolri dan Jaksa Agung",
+        "Prabowo Panggil Panglima TNI, Kapolri, hingga Jaksa Agung ke Istana",
+        "Presiden Prabowo Mendadak Panggil Kapolri-Jaksa Agung ke Istana",
+        "Presiden Prabowo Tunjuk Sanitiar Burhanuddin Sebagai Jaksa Agung 2024-2029",
+        "Prabowo Panggil Kapolri-Jaksa Agung ke Istana Perintahkan Tindak Tegas Pengoplos Beras"
+      ]
+    },
+    "ST Burhanuddin": {
+      "role": "Jaksa Agung",
+      "count": 3,
+      "articles": [
+        "Presiden Prabowo Mendadak Panggil Kapolri-Jaksa Agung ke Istana",
+        "Jaksa Agung dan Kapolri Satukan Persepsi Perkuat Kerja Sama Hadapi KUHP Baru",
+        "Prabowo Panggil Kapolri-Jaksa Agung ke Istana Perintahkan Tindak Tegas Pengoplos Beras"
+      ]
+    },
+    "Burhanuddin": {
+      "role": "Jaksa Agung",
+      "count": 4,
+      "articles": [
+        "Presiden Prabowo Mendadak Panggil Kapolri-Jaksa Agung ke Istana",
+        "Jaksa Agung dan Kapolri Satukan Persepsi Perkuat Kerja Sama Hadapi KUHP Baru",
+        "Presiden Prabowo Tunjuk Sanitiar Burhanuddin Sebagai Jaksa Agung 2024-2029",
+        "Prabowo Panggil Kapolri-Jaksa Agung ke Istana Perintahkan Tindak Tegas Pengoplos Beras"
+      ]
+    },
+    "Listyo Sigit Prabowo": {
+      "role": "Kapolri",
+      "count": 3,
+      "articles": [
+        "Presiden Prabowo Mendadak Panggil Kapolri-Jaksa Agung ke Istana",
+        "Jaksa Agung dan Kapolri Satukan Persepsi Perkuat Kerja Sama Hadapi KUHP Baru",
+        "Prabowo Panggil Kapolri-Jaksa Agung ke Istana Perintahkan Tindak Tegas Pengoplos Beras"
+      ]
+    },
+    "Listyo Sigit": {
+      "role": "Kapolri",
+      "count": 3,
+      "articles": [
+        "Presiden Prabowo Mendadak Panggil Kapolri-Jaksa Agung ke Istana",
+        "Jaksa Agung dan Kapolri Satukan Persepsi Perkuat Kerja Sama Hadapi KUHP Baru",
+        "Prabowo Panggil Kapolri-Jaksa Agung ke Istana Perintahkan Tindak Tegas Pengoplos Beras"
+      ]
+    },
+    "Sanitiar Burhanuddin": {
+      "role": "Jaksa Agung",
+      "count": 1,
+      "articles": [
+        "Presiden Prabowo Tunjuk Sanitiar Burhanuddin Sebagai Jaksa Agung 2024-2029"
+      ]
+    }
+  }
+}
